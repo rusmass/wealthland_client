@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2732754478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14d7f9a5d5af350daa310a4f8f3db139
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/materials/jiaose01.mat
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/texture/character/01.ab"

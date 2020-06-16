@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1FD3DAC4-20EE-73A5-E379-26A3A3D618E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.3.5f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;OPEN_LOG_OUTPUT</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;OPEN_LOG_OUTPUT</DefineConstants>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\DoTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\DoTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>Assets\DoTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>Assets\DoTween\DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="Curvy">
+      <HintPath>Assets\EngineOutput_NOEditor\Plugins\Curvy.dll</HintPath>
+    </Reference>
+    <Reference Include="Fantasy">
+      <HintPath>Assets\EngineOutput_NOEditor\Plugins\Fantasy.dll</HintPath>
+    </Reference>
+    <Reference Include="UIEngine">
+      <HintPath>Assets\EngineOutput_NOEditor\Plugins\UIEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Code\Client\AI\FSM\Common\FSM.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\Common\FSMEvent.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\Common\FSMState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\Common\FSMStateType.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\GiveUpState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\RollState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\SelectState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\StayState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\SuccessState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\UpGradeState.cs" />
+    <Compile Include="Assets\Code\Client\AI\FSM\WalkState.cs" />
+    <Compile Include="Assets\Code\Client\Audio\AudioManager.cs" />
+    <Compile Include="Assets\Code\Client\Camera\FSM\FSM.cs" />
+    <Compile Include="Assets\Code\Client\Camera\FSM\FSMState.cs" />
+    <Compile Include="Assets\Code\Client\Camera\FSM\FollowState.cs" />
+    <Compile Include="Assets\Code\Client\Camera\FSM\SideScrollingState.cs" />
+    <Compile Include="Assets\Code\Client\Camera\FSM\StayState.cs" />
+    <Compile Include="Assets\Code\Client\Camera\SmartCamera.cs" />
+    <Compile Include="Assets\Code\Client\Common\MathUtility.cs" />
+    <Compile Include="Assets\Code\Client\Enum\BaseDebtType.cs" />
+    <Compile Include="Assets\Code\Client\Enum\CareersType.cs" />
+    <Compile Include="Assets\Code\Client\Enum\HeroInforType.cs" />
+    <Compile Include="Assets\Code\Client\Enum\ObjectType.cs" />
+    <Compile Include="Assets\Code\Client\Enum\SpecialCardType.cs" />
+    <Compile Include="Assets\Code\Client\Enum\TargetInnerRecordType.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\Common\FSM.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\Common\FSMEvent.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\Common\FSMState.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\Common\FSMStateType.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\DownloadState.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\LoadingState.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\LoginState.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\SelectRoleState.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\StartState.cs" />
+    <Compile Include="Assets\Code\Client\Game\FSM\UnpackState.cs" />
+    <Compile Include="Assets\Code\Client\Game\Game.cs" />
+    <Compile Include="Assets\Code\Client\Game\GameDebugHelper.cs" />
+    <Compile Include="Assets\Code\Client\Game\GameSettings.cs" />
+    <Compile Include="Assets\Code\Client\Game\UIUpdateSelectWindow.UI.cs" />
+    <Compile Include="Assets\Code\Client\Game\UIUpdateSelectWindow.cs" />
+    <Compile Include="Assets\Code\Client\GameEvents\Common\GameEventArgs.cs" />
+    <Compile Include="Assets\Code\Client\GameEvents\Common\GameEventManager.cs" />
+    <Compile Include="Assets\Code\Client\GameEvents\Common\GameEventSource.cs" />
+    <Compile Include="Assets\Code\Client\GameEvents\Common\GameEvents.cs" />
+    <Compile Include="Assets\Code\Client\GameEvents\Events\EventTypes.cs" />
+    <Compile Include="Assets\Code\Client\MBGame.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\ChanceFixed.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\ChanceShares.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\InnerFate.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\Investment.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\Opportunity.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\OuterFate.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\QualityLife.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\Relax.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\Risk.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\CardVo\SpecialCard.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\Manager\ConfigManager.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\Manager\MetadataManager.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\Manager\TemplateManager.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\PlayerVo\PlayerInitData.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\SceneDataTemplate.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\Stage\ModelTemplate.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\Stage\StageInnerPoint.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\Stage\StageOuterPoint.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\SubTitle\GameTipManager.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\SubTitle\GameTips.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\SubTitle\MusicData.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\SubTitle\SubTitleManager.cs" />
+    <Compile Include="Assets\Code\Client\Metadata\SubTitle\SubtitleCount.cs" />
+    <Compile Include="Assets\Code\Client\Object\ObjectBase.cs" />
+    <Compile Include="Assets\Code\Client\Object\VisualObject.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\BorrowVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\CapitalVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\ChangeShareVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\CheckDetailVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\FateSaleFiexdVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\FixedInforVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\IncomePayVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\InforRecordVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\PaybackVo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\PlayerDebtInfor.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\PlayerInfo.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\PlayerManager.cs" />
+    <Compile Include="Assets\Code\Client\PlayerInfo\SaleRecordVo.cs" />
+    <Compile Include="Assets\Code\Client\RoundMoveUnit\BattleController.cs" />
+    <Compile Include="Assets\Code\Client\RoundMoveUnit\BattleUnit.cs" />
+    <Compile Include="Assets\Code\Client\RoundMoveUnit\Player.cs" />
+    <Compile Include="Assets\Code\Client\RoundMoveUnit\Room.cs" />
+    <Compile Include="Assets\Code\Client\Scene\Scene.cs" />
+    <Compile Include="Assets\Code\Client\Scene\SceneDataManager.cs" />
+    <Compile Include="Assets\Code\Client\Scene\SceneManager.cs" />
+    <Compile Include="Assets\Code\Client\UI\GameTipBaord\GameTipBoardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\GameTipBaord\GameTipBoardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\GameTipBaord\GameTipBoardWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\GameTipBaord\GameTipBoardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\Tools\HandleStringTool.cs" />
+    <Compile Include="Assets\Code\Client\UI\Tools\TweenTools.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceShareItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalance\UIBalanceWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceFixedInfor\UIBalanceFixedInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceFixedInfor\UIBalanceFixedInforWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceFixedInfor\UIBalanceFixedInforWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceFixedInfor\UIBalanceFixedInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceFixedInfor\UIBalanceFixedInforWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceFixedInfor\UIBalanceFixedInforWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceShareInfor\UIBalanceShareInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceShareInfor\UIBalanceShareInforWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceShareInfor\UIBalanceShareInforWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceShareInfor\UIBalanceShareInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceShareInfor\UIBalanceShareInforWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBalanceShareInfor\UIBalanceShareInforWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattlePlayerInforItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleRecodeItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleRecordBaord.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleWindowCountdown.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBattle\UIBattleWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowBasePayItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowPayBackBoard.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowPayBackItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowRecord.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowRecordItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindowBank.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindowCard.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIBorrow\UIBorrowWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICapitalChart\UICapticalChartWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICapitalChart\UICapticalChartWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICapitalChart\UICapticalChartWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICapitalChart\UICapticalChartWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICapitalChart\UICapticalChartWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\CardManager.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceFixedCard\UIChanceFixedCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceFixedCard\UIChanceFixedCardLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceFixedCard\UIChanceFixedCardWidowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceFixedCard\UIChanceFixedCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceFixedCard\UIChanceFixedCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceFixedCard\UIChanceFixedCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindowBuy.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindowChange.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIChanceShareCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIChanceShareCard\UIShareChangeItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIEnterInner\UIEnterInnerWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIEnterInner\UIEnterInnerWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIEnterInner\UIEnterInnerWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIEnterInner\UIEnterInnerWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIEnterInner\UIEnterInnerWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInnerFateCard\UIInnerFateCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInnerFateCard\UIInnerFateCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInnerFateCard\UIInnerFateCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInnerFateCard\UIInnerFateCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInnerFateCard\UIInnerFateCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInnerFateCard\UIInnerFateCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInvestmenCard\UIInvestmentCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInvestmenCard\UIInvestmentCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInvestmenCard\UIInvestmentCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInvestmenCard\UIInvestmentCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInvestmenCard\UIInvestmentCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIInvestmenCard\UIInvestmentCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOpportunityCard\UIOpportunityCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOpportunityCard\UIOpportunityCardLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOpportunityCard\UIOpportunityCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOpportunityCard\UIOpportunityCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOpportunityCard\UIOpportunityCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOpportunityCard\UIOpportunityCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOtherCard\UIOtherCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOtherCard\UIOtherCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOtherCard\UIOtherCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOtherCard\UIOtherCardWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOtherCard\UIOtherCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOtherCard\UIOtherCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardWindowSale.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UIOuterFateCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIOuterFateCard\UISaleFiexdItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIQualityLifeCard\UIQualityLifeCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIQualityLifeCard\UIQualityLifeCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIQualityLifeCard\UIQualityLifeCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIQualityLifeCard\UIQualityLifeCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIQualityLifeCard\UIQualityLifeCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIQualityLifeCard\UIQualityLifeCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRelaxCard\UIRelaxCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRelaxCard\UIRelaxCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRelaxCard\UIRelaxCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRelaxCard\UIRelaxCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRelaxCard\UIRelaxCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRelaxCard\UIRelaxCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRiskCard\UIRiskCardController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRiskCard\UIRiskCardWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRiskCard\UIRiskCardWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRiskCard\UIRiskCardWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRiskCard\UIRiskCardWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICard\UIRiskCard\UIRiskCardWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckDay\UICheckDayWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckDay\UICheckDayWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckDay\UICheckDayWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckDay\UICheckDayWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckDay\UICheckDayWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckDay\UICheckDayWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOut\UICheckOutController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOut\UICheckOutWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOut\UICheckOutWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOut\UICheckOutWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOut\UICheckOutWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOut\UICheckOutWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckDetailItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckOutDetailController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckOutDetilWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckOutDetilWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckOutDetilWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckOutDetilWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UICheckOutDetail\UICheckOutDetilWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIDebtChart\UIDebtChartWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIDebtChart\UIDebtChartWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIDebtChart\UIDebtChartWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIDebtChart\UIDebtChartWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIDebtChart\UIDebtChartWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIGameOver\UIGameOverWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIGameOver\UIGameOverWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIGameOver\UIGameOverWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIGameOver\UIGameOverWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIIncomeSheet\UIIncomeSheetWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIIncomeSheet\UIIncomeSheetWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIIncomeSheet\UIIncomeSheetWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIIncomeSheet\UIIncomeSheetWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIIncomeSheet\UIIncomeSheetWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILoading\UILoadingWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILoading\UILoadingWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILoading\UILoadingWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILogin\LoginManager.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILogin\UILoginController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILogin\UILoginWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILogin\UILoginWindowButton.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILogin\UILoginWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UILogin\UILoginWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIMessageHint\MessageHint.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIMessageHint\UIMessageHintController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIMessageHint\UIMessageHintWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIOptimizeTest\UIOptimizeTestController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIOptimizeTest\UIOptimizeTestWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIPayBill\UIPayBillWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIPayBill\UIPayBillWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIPayBill\UIPayBillWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIPayBill\UIPayBillWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIPayBill\UIPayBillWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UISelectRole\UISelectRoleWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UISelectRole\UISelectRoleWindowBottom.cs" />
+    <Compile Include="Assets\Code\Client\UI\UISelectRole\UISelectRoleWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UISelectRole\UISelectRoleWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UISelectRole\UISelectRoleWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UISynergy.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIBalanceAndIncome\UIBalanceAndIncomeWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIBalanceAndIncome\UIBalanceAndIncomeWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIBalanceAndIncome\UIBalanceAndIncomeWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIBalanceAndIncome\UIBalanceAndIncomeWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIBalanceAndIncome\UIBalanceInforItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIBalanceAndIncome\UIIncomeRecordInforItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIDebtAndPayback.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIDebtAndPaybackCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIDebtAndPaybackController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIDebtAndPaybackLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIDebtAndPaybackTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIInforAddDebtItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIDebtAndPaybak\UIInforBaseDebtItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIHeroInfor\UIHeroInforLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIHeroInfor\UIHeroInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UIHeroInfor\UIHeroInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISaleInfor\UISaleInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISaleInfor\UISaleInforWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISaleInfor\UISaleInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISaleInfor\UISaleInforWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISaleInfor\UISaleRecordItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementInfor\UISettlementInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementInfor\UISettlementInforWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementInfor\UISettlementInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementInfor\UISettlementInforWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementRecords\UISettlementRecordsController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementRecords\UISettlementRecordsWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementRecords\UISettlementRecordsWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UISettlementRecords\UISettlementRecordsWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforBoard\UIQualityRecordItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforBoard\UITargetInforRecored.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforBoard\UITargetInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforBoard\UITargetInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforBoard\UITargetInforWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforBoard\UITimeRecordItem.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforInnerBoard\UITargetInforInnerWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforInnerBoard\UITargetInforInnerWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforInnerBoard\UITargetInforInnerWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforInnerBoard\UITargetInforInnerWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITargetInforInnerBoard\UITargetInnerInforRecord.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITotalInforBoard\UITotalInforWindow.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITotalInforBoard\UITotalInforWindowCenter.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITotalInforBoard\UITotalInforWindowController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITotalInforBoard\UITotalInforWindowLayout.cs" />
+    <Compile Include="Assets\Code\Client\UI\UITotalInfor\UITotalInforBoard\UITotalInforWindowTop.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIWrapGridExample\ExampleDataManager.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIWrapGridExample\ItemDisplay.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIWrapGridExample\UIWrapGridExampleController.cs" />
+    <Compile Include="Assets\Code\Client\UI\UIWrapGridExample\UIWrapGridExampleWindow.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\ActionBase.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\ActionFactory.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\FreeChoiceAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\InnerCheckDayAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\InnerFateAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\InnerHealthAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\InnerStudyAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\InvestAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\QualityAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Inner\RelaxAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\ChanceAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\CharityAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\CheckDayAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\FateAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\GiveChildAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\HealthAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\RiskAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\Behaviour\Actions\Outter\StudyAction.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\Common\FSM.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\Common\FSMEvent.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\Common\FSMState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\Common\FSMStateType.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\GievUpState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\RollState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\SelectState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\StayState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\SuccessState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\UpgradState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\WalkState.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\Player.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\Room.cs" />
+    <Compile Include="Assets\Code\Client\VirtualServer\VirtualServer.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\ChanceFixed.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\ChanceShares.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\ConfigManager.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\GameTips.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\InnerFate.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\Investment.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\ModelTemplate.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\MusicData.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\Opportunity.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\OuterFate.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\PlayerInitData.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\QualityLife.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\Relax.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\Risk.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\SpecialCard.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\StageInnerPoint.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\StageOuterPoint.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\SubtitleCount.AutoCode.cs" />
+    <Compile Include="Assets\Code\Metadata\AutoCode\TemplateManager.AutoCode.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\DoTween\DOTween.XML" />
+    <None Include="Assets\DoTween\DOTween43.xml" />
+    <None Include="Assets\DoTween\DOTween46.xml" />
+    <None Include="Assets\DoTween\DOTween50.xml" />
+    <None Include="Assets\DoTween\Editor\DOTweenEditor.XML" />
+    <None Include="Assets\Plugins\Android\ShareSDK\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\drawable\ssdk_oks_classic_platform_cell_back.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\drawable\ssdk_oks_classic_progressbar.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\values-en\ssdk_oks_strings.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\values-en\ssdk_strings.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_instapaper_strings.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_oks_color_drawables.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_oks_strings.xml" />
+    <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_strings.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
+</Project>

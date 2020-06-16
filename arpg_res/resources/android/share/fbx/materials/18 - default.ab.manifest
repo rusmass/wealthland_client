@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 397132539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c8132ade7ab3ff45ad94576b93f4b65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c08275c813a4630703081edab8d6bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fbx/Materials/18 - Default.mat
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3305216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0608c0519725c904a5214d57a59edcd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/opportunity1/card_a_44.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_55.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_36.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_43.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_42.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_46.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_48.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_60.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_54.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_26.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_53.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_1.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_41.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_20.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_28.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_45.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_34.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_59.png
+- Assets/share/atlas/battle/card/opportunity1/card_a_35.png
+Dependencies: []

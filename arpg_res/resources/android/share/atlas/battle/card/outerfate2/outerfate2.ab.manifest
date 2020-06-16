@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1799774495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32758bfb4b7a740ddc4a99ed095c384b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/outerfate2/card_c_50.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_51.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_49.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_30.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_56.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_24.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_55.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_41.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_26.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_59.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_70.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_32.png
+- Assets/share/atlas/battle/card/outerfate2/card_c_44.png
+Dependencies: []

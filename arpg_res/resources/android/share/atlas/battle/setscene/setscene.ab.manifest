@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1658185512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eca6b0d0bc6880c45c4705b58135d8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/setscene/set_bg.png
+- Assets/share/atlas/battle/setscene/set_sound.png
+- Assets/share/atlas/battle/setscene/set_button_normal.png
+- Assets/share/atlas/battle/setscene/set_set.png
+- Assets/share/atlas/battle/setscene/set_continue.png
+- Assets/share/atlas/battle/setscene/set_music.png
+- Assets/share/atlas/battle/setscene/set_close.png
+- Assets/share/atlas/battle/setscene/overgame.png
+- Assets/share/atlas/battle/setscene/set_open.png
+- Assets/share/atlas/battle/setscene/zhuxiao.png
+- Assets/share/atlas/battle/setscene/set_line.png
+- Assets/share/atlas/battle/setscene/set_restart.png
+- Assets/share/atlas/battle/setscene/set_return.png
+- Assets/share/atlas/battle/setscene/set_about.png
+Dependencies: []

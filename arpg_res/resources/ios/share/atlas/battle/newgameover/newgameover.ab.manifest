@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2559303413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c55da05dbac449a1b9635df1a4cf4c99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/newgameover/game_over_bg_3.png
+- Assets/share/atlas/battle/newgameover/game_over_bg_2.png
+- Assets/share/atlas/battle/newgameover/game_over_fail.png
+- Assets/share/atlas/battle/newgameover/gameovershare.png
+- Assets/share/atlas/battle/newgameover/game_over_return.png
+- Assets/share/atlas/battle/newgameover/game_over_bg_5.png
+- Assets/share/atlas/battle/newgameover/game_over_bg.png
+- Assets/share/atlas/battle/newgameover/game_over_bg_1.png
+- Assets/share/atlas/battle/newgameover/game_over_caifuzongjie.png
+- Assets/share/atlas/battle/newgameover/game_over_victory.png
+- Assets/share/atlas/battle/newgameover/game_over.png
+- Assets/share/atlas/battle/newgameover/game_over_bg_4.png
+- Assets/share/atlas/battle/newgameover/game_over_light.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4012979254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abc093b4c78d66b69866d83b731ce09a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/loading/huangtiao.png
+- Assets/share/atlas/battle/loading/loadingbg.jpg
+- Assets/share/atlas/battle/loading/jindu.png
+- Assets/share/atlas/battle/loading/BG.jpg
+- Assets/share/atlas/battle/loading/nicknamebg.png
+- Assets/share/atlas/battle/loading/loadingbgm.png
+- Assets/share/atlas/battle/loading/rolebground.png
+- Assets/share/atlas/battle/loading/fo.png
+Dependencies: []

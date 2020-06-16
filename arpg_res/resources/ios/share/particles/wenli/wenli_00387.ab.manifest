@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3611542394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c344801ceebe505cf3c50095b464d2b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/particles/wenli/wenli_00387.tga
+Dependencies: []

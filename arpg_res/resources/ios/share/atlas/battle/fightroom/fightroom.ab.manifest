@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 823037585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4048a3092272d087d417975f619dcd4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/fightroom/invitwechat.png
+- Assets/share/atlas/battle/fightroom/readynew.png
+- Assets/share/atlas/battle/fightroom/pindaoweixuanzhong.png
+- Assets/share/atlas/battle/fightroom/yaoqing.png
+- Assets/share/atlas/battle/fightroom/haoyouduizhan.png
+- Assets/share/atlas/battle/fightroom/liaotianbg.png
+- Assets/share/atlas/battle/fightroom/tianjia.png
+- Assets/share/atlas/battle/fightroom/imgbindao.png
+- Assets/share/atlas/battle/fightroom/liaotianbeijing.png
+- Assets/share/atlas/battle/fightroom/touxiangbg.png
+- Assets/share/atlas/battle/fightroom/inputbg.png
+- Assets/share/atlas/battle/fightroom/moshengren1.png
+- Assets/share/atlas/battle/fightroom/ready.png
+- Assets/share/atlas/battle/fightroom/pindao.png
+- Assets/share/atlas/battle/fightroom/btn_send.png
+- Assets/share/atlas/battle/fightroom/liaotiankuang.png
+- Assets/share/atlas/battle/fightroom/haoyouliebiao1.png
+- Assets/share/atlas/battle/fightroom/haoyouliebiao.png
+- Assets/share/atlas/battle/fightroom/btnback.png
+- Assets/share/atlas/battle/fightroom/startready.png
+- Assets/share/atlas/battle/fightroom/chatbg.png
+- Assets/share/atlas/battle/fightroom/fasong.png
+- Assets/share/atlas/battle/fightroom/fanhui.png
+- Assets/share/atlas/battle/fightroom/haoyou.png
+- Assets/share/atlas/battle/fightroom/moshengren.png
+- Assets/share/atlas/battle/fightroom/gonggaobg.png
+Dependencies: []

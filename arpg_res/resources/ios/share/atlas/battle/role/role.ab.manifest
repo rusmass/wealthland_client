@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2695974226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf0febf902c7e11217c8b9434be209a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/role/role_2.png
+- Assets/share/atlas/battle/role/role_1.png
+- Assets/share/atlas/battle/role/role_4.png
+- Assets/share/atlas/battle/role/role_5.png
+- Assets/share/atlas/battle/role/role_3.png
+- Assets/share/atlas/battle/role/role_6.png
+Dependencies: []

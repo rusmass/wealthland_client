@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3540026103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1dc6e86c3e5593fce723d71a90ff4030
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/login/barbg.png
+- Assets/share/atlas/battle/login/imgpassword.png
+- Assets/share/atlas/battle/login/icon.png
+- Assets/share/atlas/battle/login/phonelogin.png
+- Assets/share/atlas/battle/login/loginclose.png
+- Assets/share/atlas/battle/login/phoneRiegitbtn.png
+- Assets/share/atlas/battle/login/id.png
+- Assets/share/atlas/battle/login/logging_bg.png
+- Assets/share/atlas/battle/login/logging_wechat_normal.png
+- Assets/share/atlas/battle/login/lbbgs.png
+- Assets/share/atlas/battle/login/logintitle.png
+- Assets/share/atlas/battle/login/zhuxiao.png
+- Assets/share/atlas/battle/login/phonenumimg.png
+- Assets/share/atlas/battle/login/blackbarbg.png
+- Assets/share/atlas/battle/login/inputbarbg.png
+- Assets/share/atlas/battle/login/phonelogbtn.png
+- Assets/share/atlas/battle/login/loginnewzbg.png
+- Assets/share/atlas/battle/login/modifypassword.png
+- Assets/share/atlas/battle/login/fankui.png
+Dependencies: []

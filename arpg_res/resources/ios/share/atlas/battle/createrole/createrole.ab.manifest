@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1143288342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbfdb03abc8848846d81452c490f8242
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/createrole/defaultheadbg.png
+- Assets/share/atlas/battle/createrole/rolebgboard.png
+- Assets/share/atlas/battle/createrole/sure.png
+- Assets/share/atlas/battle/createrole/randowroll.png
+- Assets/share/atlas/battle/createrole/woman.png
+- Assets/share/atlas/battle/createrole/man.png
+Dependencies: []

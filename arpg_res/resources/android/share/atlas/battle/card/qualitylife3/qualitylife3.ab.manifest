@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 886909251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0580c72e166e7e213b6622e4339f7c3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/qualitylife3/card_f_34.png
+- Assets/share/atlas/battle/card/qualitylife3/card_f_31.png
+- Assets/share/atlas/battle/card/qualitylife3/card_f_36.png
+- Assets/share/atlas/battle/card/qualitylife3/card_f_30.png
+- Assets/share/atlas/battle/card/qualitylife3/card_f_33.png
+- Assets/share/atlas/battle/card/qualitylife3/card_f_35.png
+- Assets/share/atlas/battle/card/qualitylife3/card_f_37.png
+Dependencies: []

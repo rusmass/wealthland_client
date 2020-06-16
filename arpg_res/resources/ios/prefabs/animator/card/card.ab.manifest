@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3717650904
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06df1fb0b2d4f494f8110b60365157f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26f2c9fd8bac5aea093fbb4e994743ac
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/card/cardAction2.controller
+- Assets/prefabs/animator/card/card.controller
+- Assets/prefabs/animator/card/cardAction.controller
+- Assets/prefabs/animator/card/cardAct2.anim
+- Assets/prefabs/animator/card/cardmove.anim
+- Assets/prefabs/animator/card/cardAct1.anim
+Dependencies: []

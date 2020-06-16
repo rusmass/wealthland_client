@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1804580547
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c242ae9ec8393206316ab5a4c5cd14d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/conclusion/starbg.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_s.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg_4.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_f.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_pingjia.png
+- Assets/share/atlas/battle/conclusion/event_log_shijianjilu.png
+- Assets/share/atlas/battle/conclusion/event_log_dajihui.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_nijingzhishu.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_chakanxiangqing.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_gameturnsNun.png
+- Assets/share/atlas/battle/conclusion/event_log_youqianyouxian.png
+- Assets/share/atlas/battle/conclusion/event_log_fengxian.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_youxijiesuanxinxi.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_pingjiadengji.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg_7.png
+- Assets/share/atlas/battle/conclusion/starnormal.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg_2.png
+- Assets/share/atlas/battle/conclusion/event_log_pinzhishenghuo.png
+- Assets/share/atlas/battle/conclusion/event_log_btnBg.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_b.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_pingjia.png
+- Assets/share/atlas/battle/conclusion/event_log_mingyun.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_jichuxinxi.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_shjianjilu.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_zhishiku.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_e.png
+- Assets/share/atlas/battle/conclusion/stargray.png
+- Assets/share/atlas/battle/conclusion/event_log_xiaojihui.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg_6.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_lingxingzhishu.png
+- Assets/share/atlas/battle/conclusion/xiangwingbutton.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_a.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_bg.png
+- Assets/share/atlas/battle/conclusion/event_log_touzi.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_d.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg_5.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_yuanpan.png
+- Assets/share/atlas/battle/conclusion/event_log_chakansuoyou.png
+- Assets/share/atlas/battle/conclusion/the_inner_ring_settlement_c.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_bg_3.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_caishangzhishu.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_qingshangzhishu.png
+- Assets/share/atlas/battle/conclusion/pingyu.png
+- Assets/share/atlas/battle/conclusion/pinzhizhishu.png
+- Assets/share/atlas/battle/conclusion/game_billing_information_jichuxinxi.png
+- Assets/share/atlas/battle/conclusion/kapaijilu.png
+Dependencies: []

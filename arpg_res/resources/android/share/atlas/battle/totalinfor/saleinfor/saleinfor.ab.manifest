@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 744684348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09675c01982fbc5971e92351351893be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/saleinfor/sell_chushou.png
+- Assets/share/atlas/battle/totalinfor/saleinfor/sell_bg_1.png
+Dependencies: []

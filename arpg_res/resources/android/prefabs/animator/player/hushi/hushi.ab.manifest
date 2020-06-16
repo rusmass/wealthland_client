@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2780919808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c311e96952d357958d2298be47e61080
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 926267ba1e07172edf42f19041d391f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/player/hushi/gameHuAction.controller
+- Assets/prefabs/animator/player/hushi/youxixiuxian.FBX
+- Assets/prefabs/animator/player/hushi/yishengtiao.FBX
+- Assets/prefabs/animator/player/hushi/hushi.tga
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/prefabs/animator/chooserole/hushi/hushi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/prefabs/animator/player/materials/materials.ab"

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1969281691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d18f0c7a4747424a1e572b482c5440d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afb06b2a3cdb9c28c61fd987a5ced26d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/luopan.prefab
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/no
+  name.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/luopan.ab"

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1915975855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fa60fb7ae434adf634ce38907ea629c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/number/8.png
+- Assets/share/atlas/battle/number/5.png
+- Assets/share/atlas/battle/number/9.png
+- Assets/share/atlas/battle/number/2.png
+- Assets/share/atlas/battle/number/wan.png
+- Assets/share/atlas/battle/number/1.png
+- Assets/share/atlas/battle/number/4.png
+- Assets/share/atlas/battle/number/7.png
+- Assets/share/atlas/battle/number/3.png
+- Assets/share/atlas/battle/number/0.png
+- Assets/share/atlas/battle/number/6.png
+Dependencies: []

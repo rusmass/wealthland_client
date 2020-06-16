@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 17a0c7ad62806354bbe78fc7c111e13c
+timeCreated: 1500123414
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: share/audio/tips/100002/buyinsurance.ab
+  assetBundleVariant: 

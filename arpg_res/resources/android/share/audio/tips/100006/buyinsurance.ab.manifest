@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2800918232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b038bf2001c5528b09f7c4c17bf8d46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100006/buyinsurance.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3791758941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d41a3b7ccd22cb89b9bbf5f5ff524c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/head/it_jishuyuan.png
+Dependencies: []

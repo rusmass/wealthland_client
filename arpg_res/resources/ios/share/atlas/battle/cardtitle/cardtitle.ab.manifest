@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 174362514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81f69af5acf43a3dfc170c382939eed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/cardtitle/outer_ring_little_chance.png
+- Assets/share/atlas/battle/cardtitle/outer_ring_fate.png
+- Assets/share/atlas/battle/cardtitle/closing_date.png
+- Assets/share/atlas/battle/cardtitle/inner_ring_free_time.png
+- Assets/share/atlas/battle/cardtitle/outer_ring_great_opportunity.png
+- Assets/share/atlas/battle/cardtitle/opportunity_card_selection_wenzi.png
+- Assets/share/atlas/battle/cardtitle/inner_ring_quality_life.png
+- Assets/share/atlas/battle/cardtitle/outer_ring_risk.png
+- Assets/share/atlas/battle/cardtitle/specialcharitycard.png
+- Assets/share/atlas/battle/cardtitle/inner_ring_investment.png
+- Assets/share/atlas/battle/cardtitle/inner_ring_fate.png
+- Assets/share/atlas/battle/cardtitle/specialstudy.png
+- Assets/share/atlas/battle/cardtitle/specialchild.png
+- Assets/share/atlas/battle/cardtitle/specialhealth.png
+- Assets/share/atlas/battle/cardtitle/ziyouxuanze.png
+Dependencies: []

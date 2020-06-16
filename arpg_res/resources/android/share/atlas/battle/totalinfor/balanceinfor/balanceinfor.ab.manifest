@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3946429071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e87e40a797017383f4b8ec4b8c009118
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/balanceinfor/assets_income_bg_2.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/assets_income_income.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/shouru.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/assets_income_bg_1.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/feilaowushouru.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/zichan.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/assets_income_assets.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/button1.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/button2.png
+- Assets/share/atlas/battle/totalinfor/balanceinfor/laowushouru.png
+Dependencies: []

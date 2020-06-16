@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 159772774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b19c5d2f41842f485f16ef9e324b5ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/chooserole/netchoosebgs/defaultrole.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/headbgboard.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/timE.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/chooseinfor.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/readyicon.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/headbgright.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/roleinginforbg.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/baseroleinfor.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/selectedbbg.png
+- Assets/share/atlas/battle/chooserole/netchoosebgs/imgrolebg.png
+Dependencies: []

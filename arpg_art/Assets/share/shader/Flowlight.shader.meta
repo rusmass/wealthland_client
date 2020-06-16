@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9fa48961764fd074fbc826eb571630e5
+timeCreated: 1519288705
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  userData: 
+  assetBundleName: share/shader/flowlight.ab
+  assetBundleVariant: 

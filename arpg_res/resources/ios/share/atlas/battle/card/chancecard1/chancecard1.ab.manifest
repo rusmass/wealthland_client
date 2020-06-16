@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 356919760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79e1beeea12eb12317cd25385c887a5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/chancecard1/card_gupiao_3.png
+- Assets/share/atlas/battle/card/chancecard1/card_d_2.png
+- Assets/share/atlas/battle/card/chancecard1/card_gupiao_2.png
+- Assets/share/atlas/battle/card/chancecard1/card_gupiao.png
+- Assets/share/atlas/battle/card/chancecard1/card_d_43.png
+Dependencies: []

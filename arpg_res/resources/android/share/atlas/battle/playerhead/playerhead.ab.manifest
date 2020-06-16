@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1588847242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7e42df3e9f76e2fea134f712dba0ea2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/playerhead/head3.png
+- Assets/share/atlas/battle/playerhead/head1.png
+- Assets/share/atlas/battle/playerhead/head4.png
+- Assets/share/atlas/battle/playerhead/head2.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2055400466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2d3c2bde3c5a22e6847d37930afeffd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/risk1/card_b_8.png
+- Assets/share/atlas/battle/card/risk1/card_b_9.png
+- Assets/share/atlas/battle/card/risk1/card_b_10.png
+- Assets/share/atlas/battle/card/risk1/card_b_14.png
+- Assets/share/atlas/battle/card/risk1/card_b_5.png
+- Assets/share/atlas/battle/card/risk1/card_b_13.png
+- Assets/share/atlas/battle/card/risk1/card_b_3.png
+- Assets/share/atlas/battle/card/risk1/card_b_12.png
+- Assets/share/atlas/battle/card/risk1/card_b_15.png
+- Assets/share/atlas/battle/card/risk1/card_b_6.png
+- Assets/share/atlas/battle/card/risk1/card_b_11.png
+- Assets/share/atlas/battle/card/risk1/card_b_1.png
+- Assets/share/atlas/battle/card/risk1/card_b_4.png
+- Assets/share/atlas/battle/card/risk1/card_b_47.png
+- Assets/share/atlas/battle/card/risk1/card_b_7.png
+- Assets/share/atlas/battle/card/risk1/repair.png
+Dependencies: []

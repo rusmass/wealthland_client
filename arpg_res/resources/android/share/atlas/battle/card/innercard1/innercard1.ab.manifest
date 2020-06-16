@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1404527596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26afbc8e17e08ee7770f54dfc4362922
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/innercard1/card_e_4.png
+- Assets/share/atlas/battle/card/innercard1/card_e_3.png
+- Assets/share/atlas/battle/card/innercard1/card_e_8.png
+- Assets/share/atlas/battle/card/innercard1/card_e_2.png
+- Assets/share/atlas/battle/card/innercard1/card_e_7.png
+- Assets/share/atlas/battle/card/innercard1/card_e_6.png
+- Assets/share/atlas/battle/card/innercard1/card_e_9.png
+Dependencies: []

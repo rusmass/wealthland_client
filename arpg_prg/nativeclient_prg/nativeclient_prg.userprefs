@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="nativeclient_prg.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Client\GameNet\Script\Handler\HandleRoomFight.cs">
+    <Files>
+      <File FileName="Assets\Code\Client\GameNet\Script\HttpRequestManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UILogin\UILoginWindowButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UIGameBindPhone\UIGameBindPhoneWindowCenter.cs" Line="152" Column="41" />
+      <File FileName="Assets\Code\Client\PlayerInfo\GameModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\GameNet\Script\NetWorkScript.cs" Line="1358" Column="3" />
+      <File FileName="Assets\Code\Client\GameNet\Script\Handler\MessageManager.cs" Line="1090" Column="14" />
+      <File FileName="Assets\Code\Client\GameNet\Script\Handler\HandleRoomFight.cs" Line="2107" Column="4" />
+      <File FileName="Assets\Code\Client\UI\UIChooseRoleNet\UIChooseRoleNetWindowButton.cs" Line="329" Column="3" />
+      <File FileName="Assets\Code\Client\UI\UIChooseRoleNet\UIChooseRoleNetWindowController.cs" Line="64" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

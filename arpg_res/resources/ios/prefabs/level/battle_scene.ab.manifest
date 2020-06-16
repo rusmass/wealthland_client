@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 2919601742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3189e0d18f5935201dddbc55f206013a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 242cd8d9e173c7aeabe06e340e1dbc86
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2102103922, guid: 85c1e75e4011f4c89a59232b189e4dfb, type: 3}
+- Class: 114
+  Script: {fileID: -442771504, guid: 85c1e75e4011f4c89a59232b189e4dfb, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/level/battle_scene.zip
+- Assets/prefabs/level/battle_scene.prefab
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/10.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/12.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/2.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/3.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/4.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/5.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/7.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/mapbggound.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/ditu.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/round.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/jiankangzixun.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/jiezhangri1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/jinxiuxuexi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/kaishi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/mingyun1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/tishengshenghuopinzhi3.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/touzi01.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/youqianyouxian1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/neiquan/ziyouxuanze.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/cishan.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/fenxian1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/jiankangguanli.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/jiezhangri1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/jihui1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/jinxiuxuexi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/kaishi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/mingyun1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu/waiquan/shenghaizi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/ditu01.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/tiankong.ab"

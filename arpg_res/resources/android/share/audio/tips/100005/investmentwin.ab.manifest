@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3604298169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dc23641780937836be1d75413af2ae9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100005/investmentwin.mp3
+Dependencies: []

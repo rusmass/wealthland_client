@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3365694306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3da01810024930da92832bb39512950
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/gamehallchat/btnmosheng.png
+- Assets/share/atlas/battle/gamehallchat/inforbg.png
+- Assets/share/atlas/battle/gamehallchat/sendword.png
+- Assets/share/atlas/battle/gamehallchat/usernamebg.png
+- Assets/share/atlas/battle/gamehallchat/backbtn.png
+- Assets/share/atlas/battle/gamehallchat/btnfriend.png
+- Assets/share/atlas/battle/gamehallchat/chatbg.png
+- Assets/share/atlas/battle/gamehallchat/inputwordbg.png
+- Assets/share/atlas/battle/gamehallchat/playerinforboardbg.png
+Dependencies: []

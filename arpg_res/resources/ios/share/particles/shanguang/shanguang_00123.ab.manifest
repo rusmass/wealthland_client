@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1365762397
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0661d3dcb9376e0e4652c5fbeb87903e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/particles/shanguang/shanguang_00123.tga
+Dependencies: []

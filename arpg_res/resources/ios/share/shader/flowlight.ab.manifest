@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1886879638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9a61b9b5228901bbdc466dc543d3c11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80729077cb39806c86b5c10073f074fb
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/shader/Flowlight.shader
+Dependencies: []

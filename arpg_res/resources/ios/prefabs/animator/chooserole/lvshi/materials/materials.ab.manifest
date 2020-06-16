@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2455081551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f96d74b0361e84669efe82aecfee58f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/chooseRole/lvshi/Materials/faguan.mat
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/prefabs/animator/player/lvshi/lvshi.ab"

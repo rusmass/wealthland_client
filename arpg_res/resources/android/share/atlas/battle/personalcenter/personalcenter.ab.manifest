@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3645436443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a4dc03abcf770b69fbf23193068db41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/PersonalCenter/34.png
+- Assets/share/atlas/battle/PersonalCenter/37.png
+- Assets/share/atlas/battle/PersonalCenter/yisheng.png
+- Assets/share/atlas/battle/PersonalCenter/baoan.png
+- Assets/share/atlas/battle/PersonalCenter/21.png
+- Assets/share/atlas/battle/PersonalCenter/25.png
+- Assets/share/atlas/battle/PersonalCenter/siji.png
+- Assets/share/atlas/battle/PersonalCenter/11.png
+- Assets/share/atlas/battle/PersonalCenter/welcomebg1.png
+- Assets/share/atlas/battle/PersonalCenter/24.png
+- Assets/share/atlas/battle/PersonalCenter/42.jpg
+- Assets/share/atlas/battle/PersonalCenter/44.png
+- Assets/share/atlas/battle/PersonalCenter/9.png
+- Assets/share/atlas/battle/PersonalCenter/2.png
+- Assets/share/atlas/battle/PersonalCenter/15.png
+- Assets/share/atlas/battle/PersonalCenter/7.png
+- Assets/share/atlas/battle/PersonalCenter/33.png
+- Assets/share/atlas/battle/PersonalCenter/26.png
+- Assets/share/atlas/battle/PersonalCenter/43.png
+- Assets/share/atlas/battle/PersonalCenter/12.png
+- Assets/share/atlas/battle/PersonalCenter/36.png
+- Assets/share/atlas/battle/PersonalCenter/1.png
+- Assets/share/atlas/battle/PersonalCenter/5.png
+- Assets/share/atlas/battle/PersonalCenter/14.png
+- Assets/share/atlas/battle/PersonalCenter/6.png
+- Assets/share/atlas/battle/PersonalCenter/10.png
+- Assets/share/atlas/battle/PersonalCenter/3.png
+- Assets/share/atlas/battle/PersonalCenter/lvshi.png
+- Assets/share/atlas/battle/PersonalCenter/xiaoshoujingli.png
+- Assets/share/atlas/battle/PersonalCenter/30.png
+- Assets/share/atlas/battle/PersonalCenter/35.png
+- Assets/share/atlas/battle/PersonalCenter/41.png
+- Assets/share/atlas/battle/PersonalCenter/32.png
+- Assets/share/atlas/battle/PersonalCenter/8.png
+- Assets/share/atlas/battle/PersonalCenter/it_jishuyuan.png
+- Assets/share/atlas/battle/PersonalCenter/38.png
+- Assets/share/atlas/battle/PersonalCenter/31.png
+- Assets/share/atlas/battle/PersonalCenter/20.png
+- Assets/share/atlas/battle/PersonalCenter/45.png
+- Assets/share/atlas/battle/PersonalCenter/4.png
+- Assets/share/atlas/battle/PersonalCenter/23.png
+- Assets/share/atlas/battle/PersonalCenter/16.png
+- Assets/share/atlas/battle/PersonalCenter/22.png
+Dependencies: []

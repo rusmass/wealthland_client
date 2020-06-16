@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 233823888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e73700b55d31ed5b28e83e785ecd960
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/particles/fasheguang/fangsheguang_00002.tga
+Dependencies: []

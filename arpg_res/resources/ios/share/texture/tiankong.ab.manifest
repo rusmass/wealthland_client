@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2522617439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31f7571174c84f73801e4e94ec52b389
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/tiankong.png
+Dependencies: []

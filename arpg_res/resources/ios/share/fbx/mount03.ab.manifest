@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3909524296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63be4f5723ca66fc389dbfd4a1a6a68d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d22c44a012186eb748e6061cd601925
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fbx/Mount03.FBX
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/mountain-ground.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fbx/materials/mountain-rock.ab"

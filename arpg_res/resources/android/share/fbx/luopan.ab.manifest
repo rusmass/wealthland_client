@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 197768365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4875356e4a7d9aa24dea02bebc724962
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afb06b2a3cdb9c28c61fd987a5ced26d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fbx/luopan.FBX
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_a.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_b.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_c.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_d.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_e.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_f.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_g.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_h.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_i.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_k.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_1_l.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_a.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_b.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_c.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_d.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_e.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_f.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_g.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_2_h.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/cf_3.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/fbx/materials/no
+  name.ab"

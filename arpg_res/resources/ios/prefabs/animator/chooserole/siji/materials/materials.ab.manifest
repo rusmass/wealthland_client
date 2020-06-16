@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1980275268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df1d13ef1260ca2e5c5c30d6af05546f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/chooseRole/siji/Materials/sij.mat
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/prefabs/animator/player/siji/siji.ab"

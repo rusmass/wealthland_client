@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 991780956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e032458e52cd78dc7d4e973c8b33723
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_records_2.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_records.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_settlement_records.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_gross_income.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_plus.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_bg_2.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_sum_calculation.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_initial_cash_flow.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_target.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_increase_liquidity.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_bg_1.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_total_expenditure.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_settlement.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_wealth_circle_settlement_date.png
+- Assets/share/atlas/battle/totalinfor/settleinfor/settlement_jiesuan.png
+Dependencies: []

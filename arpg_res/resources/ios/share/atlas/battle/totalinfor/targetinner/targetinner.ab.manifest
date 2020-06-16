@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1835253561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46aaecb6450ca44ddf7e4051ff46122c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/targetinner/targetinner.png
+- Assets/share/atlas/battle/totalinfor/targetinner/pinzhijifen.png
+- Assets/share/atlas/battle/totalinfor/targetinner/xiaobiao3.png
+- Assets/share/atlas/battle/totalinfor/targetinner/shijianjifen.png
+- Assets/share/atlas/battle/totalinfor/targetinner/xiaobiao.png
+- Assets/share/atlas/battle/totalinfor/targetinner/liudongxianjin.png
+- Assets/share/atlas/battle/totalinfor/targetinner/name.png
+- Assets/share/atlas/battle/totalinfor/targetinner/xiaobiao2.png
+- Assets/share/atlas/battle/totalinfor/targetinner/name3.png
+- Assets/share/atlas/battle/totalinfor/targetinner/name2.png
+Dependencies: []

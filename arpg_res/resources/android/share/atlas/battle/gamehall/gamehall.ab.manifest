@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1251194024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e534869a6f96669459a8d414e062b49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/gamehall/btnshare.png
+- Assets/share/atlas/battle/gamehall/chatbg.png
+- Assets/share/atlas/battle/gamehall/danjiduizhanbg.png
+- Assets/share/atlas/battle/gamehall/sexwomen.png
+- Assets/share/atlas/battle/gamehall/lianjiduizhanbg.png
+- Assets/share/atlas/battle/gamehall/paihangbang.png
+- Assets/share/atlas/battle/gamehall/chaticon.png
+- Assets/share/atlas/battle/gamehall/youjian.png
+- Assets/share/atlas/battle/gamehall/haoyouduizhanbg.png
+- Assets/share/atlas/battle/gamehall/youjianbg.png
+- Assets/share/atlas/battle/gamehall/gonggao.png
+- Assets/share/atlas/battle/gamehall/topbannerbg122.png
+- Assets/share/atlas/battle/gamehall/haoyou.png
+- Assets/share/atlas/battle/gamehall/sexman.png
+- Assets/share/atlas/battle/gamehall/enterroo.png
+- Assets/share/atlas/battle/gamehall/youxidatingbg.png
+- Assets/share/atlas/battle/gamehall/touxiangdiban.png
+- Assets/share/atlas/battle/gamehall/boardclose.png
+- Assets/share/atlas/battle/gamehall/herowoman.png
+- Assets/share/atlas/battle/gamehall/inputnumbg.png
+- Assets/share/atlas/battle/gamehall/shezhi.png
+- Assets/share/atlas/battle/gamehall/touxiangbgnew.png
+- Assets/share/atlas/battle/gamehall/bangzhu.png
+- Assets/share/atlas/battle/gamehall/btn_number.png
+- Assets/share/atlas/battle/gamehall/gametipbarbg.png
+- Assets/share/atlas/battle/gamehall/topbannerbg.png
+- Assets/share/atlas/battle/gamehall/inputtxtbbg.png
+- Assets/share/atlas/battle/gamehall/heroman.png
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 223208031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f7cafb57b660759f9352d03abac0076
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e620f64fdcd1935eefe42580c5ef78d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/ui/scene/uinetloading.prefab
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/prefabs/animator/waitng/waitng.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/atlas/battle/waitloading/waitloading.ab"

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2169587866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79408e7315e26ec9532f5d14cded8ca6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/head/baoan.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1579704321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a3762a79694459abc6cb7f07bded451
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/ditu/5.tga
+Dependencies: []

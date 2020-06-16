@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3595773471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7317b875a6045caa032974a2a29b7b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100005/investmentlose.mp3
+Dependencies: []

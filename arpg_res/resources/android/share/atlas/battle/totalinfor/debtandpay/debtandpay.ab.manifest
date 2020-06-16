@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1606013433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76f15fea5541445f5e81bfad03f11479
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/debtandpay/paymoney.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/addpay.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/debgimg.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/barbg.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/zhichuicon1.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/fuzhaiicon1.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/paybackword.png
+- Assets/share/atlas/battle/totalinfor/debtandpay/basepay.png
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3359224865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 045affaf32d0a94806de2849be3e7b7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/letter/settlementc.png
+- Assets/share/atlas/battle/letter/settlementa.png
+- Assets/share/atlas/battle/letter/settlemente.png
+- Assets/share/atlas/battle/letter/settlementf.png
+- Assets/share/atlas/battle/letter/settlements.png
+- Assets/share/atlas/battle/letter/settlementb.png
+- Assets/share/atlas/battle/letter/settlementd.png
+Dependencies: []

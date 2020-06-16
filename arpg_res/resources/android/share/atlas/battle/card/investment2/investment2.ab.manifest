@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 935127095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a11f29e09299d05d0ea0152c694fac6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/investment2/card_g_25.png
+- Assets/share/atlas/battle/card/investment2/card_g_18.png
+- Assets/share/atlas/battle/card/investment2/card_g_21.png
+- Assets/share/atlas/battle/card/investment2/card_g_16.png
+- Assets/share/atlas/battle/card/investment2/card_g_22.png
+- Assets/share/atlas/battle/card/investment2/card_g_20.png
+- Assets/share/atlas/battle/card/investment2/card_g_17.png
+- Assets/share/atlas/battle/card/investment2/card_g_23.png
+Dependencies: []

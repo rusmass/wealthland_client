@@ -1,0 +1,10 @@
+﻿<Properties StartupItem="UIEngine.dll">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\..\..\arpg_prg\client_prg\Assets\Code\Client\UI\UIBattle\UIBattleWindowTop.cs" line="111" offsetX="445" offsetY="1760" expression="tmpPercent" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

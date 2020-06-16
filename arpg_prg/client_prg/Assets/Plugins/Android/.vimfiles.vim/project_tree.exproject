@@ -1,0 +1,18 @@
+file filter = java,bat,xml
+dir filter = 
+
+-[F]Android {
+ |-[F]Main {
+   |-[F]res {
+   | |-[F]values {
+   |   |-[x]public.xml
+   |   |-[x]strings.xml } }
+   |
+   |-[x]AndroidManifest.xml
+   |-[b]build.bat
+   |-[j]InstallReceiver.java
+   |-[j]LogHelper.java
+   |-[j]MainActivity.java
+   |-[j]UnZip.java } }
+
+

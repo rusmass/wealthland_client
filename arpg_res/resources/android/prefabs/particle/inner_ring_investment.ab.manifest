@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1706583627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8b9a60334b1074dd0a91997b7279ef6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e52e7f62affa9907662eb7d51864c95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/particle/inner_ring_investment.prefab
+Dependencies: []

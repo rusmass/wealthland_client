@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4144314638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b964d5529140edbf736ad5e028b9e97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 926267ba1e07172edf42f19041d391f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/player/baoan/gameAnAction.controller
+- Assets/prefabs/animator/player/baoan/youxixiuxian.FBX
+- Assets/prefabs/animator/player/baoan/baoan.tga
+- Assets/prefabs/animator/player/baoan/tiao.FBX
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/prefabs/animator/chooserole/baoan/baoan.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/prefabs/animator/player/materials/materials.ab"

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2901865093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 613926d5b77a56265151c99a538de2e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/specaill1/the_outer_ring_closing_date.png
+- Assets/share/atlas/battle/card/specaill1/card_charitable.png
+- Assets/share/atlas/battle/card/specaill1/card_further_study.png
+- Assets/share/atlas/battle/card/specaill1/card_child.png
+- Assets/share/atlas/battle/card/specaill1/card_health_management.png
+Dependencies: []

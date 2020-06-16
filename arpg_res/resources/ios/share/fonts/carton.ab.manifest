@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3619052704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fb2b3d4348ca2b0026acad3e2cdacfc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6a9e4149af2e9e0805fc21f5a860a6c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fonts/carton.TTF
+Dependencies: []

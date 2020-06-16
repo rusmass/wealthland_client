@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3743844821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffdc8ca6c9644dfee5f9421dd18f130d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100001/turnedme.mp3
+Dependencies: []

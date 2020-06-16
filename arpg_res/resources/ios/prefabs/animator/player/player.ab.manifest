@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1678188528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09a9988e974831a922e150aa55dc741d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1807b74b295cedac151aec4657c05823
+HashAppended: 0
+ClassTypes:
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/player/01.controller
+Dependencies: []

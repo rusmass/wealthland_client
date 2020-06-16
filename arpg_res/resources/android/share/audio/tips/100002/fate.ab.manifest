@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2920602063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5515f4f40fad8840ed7d4b5c2e9a4bfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100002/fate.mp3
+Dependencies: []

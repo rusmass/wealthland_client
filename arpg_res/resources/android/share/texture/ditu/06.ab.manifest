@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 466261049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a56857455c9449e544113310658e03ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/ditu/06.jpg
+Dependencies: []

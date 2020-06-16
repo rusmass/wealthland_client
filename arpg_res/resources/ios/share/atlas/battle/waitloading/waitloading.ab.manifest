@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1832671498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f60c98d51483e4f33e624d8cd5088377
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/waitloading/waiting0001.png
+- Assets/share/atlas/battle/waitloading/waiting0003.png
+- Assets/share/atlas/battle/waitloading/waiting0002.png
+- Assets/share/atlas/battle/waitloading/waiting0006.png
+- Assets/share/atlas/battle/waitloading/waiting0008.png
+- Assets/share/atlas/battle/waitloading/waiting0004.png
+- Assets/share/atlas/battle/waitloading/waiting0007.png
+- Assets/share/atlas/battle/waitloading/waiting0005.png
+Dependencies: []

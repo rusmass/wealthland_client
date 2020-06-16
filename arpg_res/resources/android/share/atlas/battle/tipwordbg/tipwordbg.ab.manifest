@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3051712884
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 988aba553d90e044938398b2cf224a01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/tipwordbg/wait.png
+- Assets/share/atlas/battle/tipwordbg/btnsure.png
+- Assets/share/atlas/battle/tipwordbg/btncancle.png
+- Assets/share/atlas/battle/tipwordbg/sharewechatmement.png
+- Assets/share/atlas/battle/tipwordbg/bgbg.png
+- Assets/share/atlas/battle/tipwordbg/headbg.png
+- Assets/share/atlas/battle/tipwordbg/right.png
+- Assets/share/atlas/battle/tipwordbg/TipBoradbg.png
+- Assets/share/atlas/battle/tipwordbg/sharewechat.png
+Dependencies: []

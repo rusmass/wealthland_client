@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3824032101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c583db8b9db366adf607036bd7d64e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/heroinfor/jueshoubgg.jpg
+- Assets/share/atlas/battle/totalinfor/heroinfor/baseinfor.png
+Dependencies: []

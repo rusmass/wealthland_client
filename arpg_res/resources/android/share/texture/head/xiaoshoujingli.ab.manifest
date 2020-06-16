@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 207068427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c90d17c470a8793484f239b31f0f893
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/head/xiaoshoujingli.png
+Dependencies: []

@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Client\GameNet\Script\Handler\MessageManager.cs">
+    <Files>
+      <File FileName="Assets\Code\Client\GameNet\Script\Handler\MessageManager.cs" Line="682" Column="100" />
+      <File FileName="Assets\Code\Client\GameNet\Script\Handler\HandleRoomFight.cs" Line="215" Column="77" />
+      <File FileName="Assets\Code\Client\VirtualServer\BattleVirtualServer\FSM\StayState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\VirtualServer\VirtualServer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\GameNet\Model\Protocol.cs" Line="20" Column="39" />
+      <File FileName="Assets\Code\Client\GameNet\Script\NetWorkScript.cs" Line="101" Column="30" />
+      <File FileName="Assets\Code\Client\RoundMoveUnit\BattleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\PlayerInfo\GameModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\RoundMoveUnit\Room.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\AI\FSM\StayState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\VirtualServer\Room.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\AI\FSM\RollState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\GameNet\Script\Handler\HandlerGameInfor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\AI\FSM\SelectState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\GameNet\Script\HttpRequestHelp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\GameNet\Script\HttpRequestManager.cs" Line="169" Column="4" />
+      <File FileName="Assets\Code\Client\GameNet\Script\Coding\Coding.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UIFeedBackWindow\UIFeedBackWindowCenter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UIPlayerInfor\UIPlayerInforController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UIBattle\UIBattleWindowCountdown.cs" Line="65" Column="16" />
+      <File FileName="Assets\Code\Client\UI\UIGameHallChat\UIGameHallChatWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UIGameHall\UIGameHallWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Client\UI\UIGameHall\UIGameHallWindowEnterRoom.cs" Line="143" Column="29" />
+      <File FileName="Assets\Code\Client\UI\UIGameHall\UIGameHallWindowController.cs" Line="39" Column="49" />
+      <File FileName="Assets\Code\Client\UI\UIGameSet\UIGameSetWindowCenter.cs" Line="55" Column="46" />
+      <File FileName="Assets\Code\Client\GameNet\Model\ByteArray.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Code\Client\UI\UIBattle\UIBattleWindowTop.cs" line="111" offsetX="445" offsetY="1760" expression="tmpPercent" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

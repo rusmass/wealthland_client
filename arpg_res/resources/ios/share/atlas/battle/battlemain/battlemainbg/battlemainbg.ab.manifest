@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1530952543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94a2983da220097e1c6f2a48e313d71d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/battlemain/battlemainbg/redbar.png
+- Assets/share/atlas/battle/battlemain/battlemainbg/yellowbar.png
+Dependencies: []

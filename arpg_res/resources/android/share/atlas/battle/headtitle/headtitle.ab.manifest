@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1595792275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 900cfe5f95dda1cba844f3d55404ef24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/headTitle/further_study.png
+- Assets/share/atlas/battle/headTitle/risk.png
+- Assets/share/atlas/battle/headTitle/closing_date.png
+- Assets/share/atlas/battle/headTitle/investment.png
+- Assets/share/atlas/battle/headTitle/opportunity.png
+- Assets/share/atlas/battle/headTitle/give_birth_to_a_child.png
+- Assets/share/atlas/battle/headTitle/improve_the_quality_of_life.png
+- Assets/share/atlas/battle/headTitle/health_management.png
+- Assets/share/atlas/battle/headTitle/philanthropic_undertaking.png
+- Assets/share/atlas/battle/headTitle/free_choice.png
+- Assets/share/atlas/battle/headTitle/fate.png
+- Assets/share/atlas/battle/headTitle/rich_time.png
+Dependencies: []

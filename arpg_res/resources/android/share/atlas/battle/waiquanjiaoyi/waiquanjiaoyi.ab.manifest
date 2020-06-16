@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 175441991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09b77424af3753886002075b589471c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/waiquanjiaoyi/qa_wozhidaole.png
+- Assets/share/atlas/battle/waiquanjiaoyi/reminder_dianjihuankuan.png
+- Assets/share/atlas/battle/waiquanjiaoyi/reminder_tanhao.png
+- Assets/share/atlas/battle/waiquanjiaoyi/qa_ruheyingdeyouxi.png
+- Assets/share/atlas/battle/waiquanjiaoyi/qa_ruhejinruneiquan.png
+Dependencies: []

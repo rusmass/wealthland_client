@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1061259023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f92dc9bcb67badc8e2aa84f9818fa506
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100005/givechild.mp3
+Dependencies: []

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2652329717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3bd53576cf8d7e8fc74a0a5a8db786e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/touzi/touzi0008.png
+- Assets/share/atlas/battle/touzi/touzi0011.png
+- Assets/share/atlas/battle/touzi/touzi0031.png
+- Assets/share/atlas/battle/touzi/touzi0006.png
+- Assets/share/atlas/battle/touzi/touzi0016.png
+- Assets/share/atlas/battle/touzi/touzi0027.png
+- Assets/share/atlas/battle/touzi/touzi0014.png
+- Assets/share/atlas/battle/touzi/touzi0030.png
+- Assets/share/atlas/battle/touzi/touzi0018.png
+- Assets/share/atlas/battle/touzi/touzi0002.png
+- Assets/share/atlas/battle/touzi/touzi0035.png
+- Assets/share/atlas/battle/touzi/touzi0001.png
+- Assets/share/atlas/battle/touzi/touzi0010.png
+- Assets/share/atlas/battle/touzi/touzi0013.png
+- Assets/share/atlas/battle/touzi/touzi0017.png
+- Assets/share/atlas/battle/touzi/touzi0015.png
+- Assets/share/atlas/battle/touzi/touzi0012.png
+- Assets/share/atlas/battle/touzi/touzi0021.png
+- Assets/share/atlas/battle/touzi/touzi0005.png
+- Assets/share/atlas/battle/touzi/touzi0029.png
+- Assets/share/atlas/battle/touzi/touzi0004.png
+- Assets/share/atlas/battle/touzi/touzi0009.png
+- Assets/share/atlas/battle/touzi/touzi0028.png
+- Assets/share/atlas/battle/touzi/touzi0019.png
+- Assets/share/atlas/battle/touzi/touzi0003.png
+- Assets/share/atlas/battle/touzi/touzi0022.png
+- Assets/share/atlas/battle/touzi/touzi0020.png
+- Assets/share/atlas/battle/touzi/touzi0025.png
+- Assets/share/atlas/battle/touzi/touzi0037.png
+- Assets/share/atlas/battle/touzi/touzi0026.png
+- Assets/share/atlas/battle/touzi/touzi0032.png
+- Assets/share/atlas/battle/touzi/touzi0023.png
+- Assets/share/atlas/battle/touzi/touzi0034.png
+- Assets/share/atlas/battle/touzi/touzi0024.png
+- Assets/share/atlas/battle/touzi/touzi0033.png
+- Assets/share/atlas/battle/touzi/touzi0007.png
+- Assets/share/atlas/battle/touzi/touzi0036.png
+Dependencies: []

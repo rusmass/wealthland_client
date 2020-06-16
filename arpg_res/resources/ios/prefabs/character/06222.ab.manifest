@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3270394197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9423ff1581f14d01cec7c96addfd1ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7fac1dfc77627bcda5f4b6660adb073e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/character/06222.prefab
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/yingzi.ab"

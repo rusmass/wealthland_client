@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 07ebfd47b9b857d4197ea9e6feb20df1
+timeCreated: 1477035028
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder02
+    100002: Cylinder10
+    100004: Object013
+    100006: Object037
+    100008: Object058
+    100010: Object059
+    100012: Object064
+    100014: //RootNode
+    100016: cf_1
+    100018: cf_1_a
+    100020: cf_1_a 1
+    100022: cf_1_b
+    100024: cf_1_b 1
+    100026: cf_1_c
+    100028: cf_1_c 1
+    100030: cf_1_c 2
+    100032: cf_1_c 3
+    100034: cf_1_c 4
+    100036: cf_1_c 5
+    100038: cf_1_d
+    100040: cf_1_d 1
+    100042: cf_1_d 2
+    100044: cf_1_d 3
+    100046: cf_1_e
+    100048: cf_1_f
+    100050: cf_1_f 1
+    100052: cf_1_g
+    100054: cf_1_g 1
+    100056: cf_1_g 2
+    100058: cf_1_h
+    100060: cf_1_i
+    100062: cf_1_k
+    100064: cf_1_k 1
+    100066: cf_1_l
+    100068: cf_2_a
+    100070: cf_2_b
+    100072: cf_2_c
+    100074: cf_2_e
+    100076: cf_2_f
+    100078: cf_2_g
+    100080: cf_2_h
+    100082: cf_3
+    100084: Object089
+    100086: Object090
+    100088: Object091
+    100090: Object092
+    100092: Object093
+    100094: Object094
+    100096: Object095
+    100098: Object096
+    100100: Object097
+    100102: Object098
+    100104: Object102
+    100106: Object107
+    100108: Cylinder011
+    100110: Plane001
+    100112: Plane002
+    100114: Plane003
+    100116: Plane004
+    100118: Plane005
+    100120: Plane006
+    100122: Plane007
+    100124: Plane008
+    100126: Plane009
+    100128: Plane010
+    100130: Plane011
+    100132: Plane012
+    100134: Plane013
+    100136: Plane014
+    100138: Plane015
+    100140: Plane016
+    100142: Plane017
+    100144: Plane018
+    100146: Plane019
+    100148: Plane020
+    100150: Plane021
+    100152: Plane022
+    100154: Plane023
+    100156: Plane024
+    100158: Plane025
+    100160: Plane027
+    100162: Plane028
+    100164: Plane029
+    100166: Plane030
+    100168: Plane031
+    100170: Plane032
+    100172: Plane033
+    100174: Plane034
+    100176: Plane035
+    400000: Cylinder02
+    400002: Cylinder10
+    400004: Object013
+    400006: Object037
+    400008: Object058
+    400010: Object059
+    400012: Object064
+    400014: //RootNode
+    400016: cf_1
+    400018: cf_1_a
+    400020: cf_1_a 1
+    400022: cf_1_b
+    400024: cf_1_b 1
+    400026: cf_1_c
+    400028: cf_1_c 1
+    400030: cf_1_c 2
+    400032: cf_1_c 3
+    400034: cf_1_c 4
+    400036: cf_1_c 5
+    400038: cf_1_d
+    400040: cf_1_d 1
+    400042: cf_1_d 2
+    400044: cf_1_d 3
+    400046: cf_1_e
+    400048: cf_1_f
+    400050: cf_1_f 1
+    400052: cf_1_g
+    400054: cf_1_g 1
+    400056: cf_1_g 2
+    400058: cf_1_h
+    400060: cf_1_i
+    400062: cf_1_k
+    400064: cf_1_k 1
+    400066: cf_1_l
+    400068: cf_2_a
+    400070: cf_2_b
+    400072: cf_2_c
+    400074: cf_2_e
+    400076: cf_2_f
+    400078: cf_2_g
+    400080: cf_2_h
+    400082: cf_3
+    400084: Object089
+    400086: Object090
+    400088: Object091
+    400090: Object092
+    400092: Object093
+    400094: Object094
+    400096: Object095
+    400098: Object096
+    400100: Object097
+    400102: Object098
+    400104: Object102
+    400106: Object107
+    400108: Cylinder011
+    400110: Plane001
+    400112: Plane002
+    400114: Plane003
+    400116: Plane004
+    400118: Plane005
+    400120: Plane006
+    400122: Plane007
+    400124: Plane008
+    400126: Plane009
+    400128: Plane010
+    400130: Plane011
+    400132: Plane012
+    400134: Plane013
+    400136: Plane014
+    400138: Plane015
+    400140: Plane016
+    400142: Plane017
+    400144: Plane018
+    400146: Plane019
+    400148: Plane020
+    400150: Plane021
+    400152: Plane022
+    400154: Plane023
+    400156: Plane024
+    400158: Plane025
+    400160: Plane027
+    400162: Plane028
+    400164: Plane029
+    400166: Plane030
+    400168: Plane031
+    400170: Plane032
+    400172: Plane033
+    400174: Plane034
+    400176: Plane035
+    2300000: Cylinder02
+    2300002: Object013
+    2300004: Object037
+    2300006: Object058
+    2300008: Object059
+    2300010: Object064
+    2300012: cf_1
+    2300014: cf_1_a
+    2300016: cf_1_a 1
+    2300018: cf_1_b
+    2300020: cf_1_b 1
+    2300022: cf_1_c
+    2300024: cf_1_c 1
+    2300026: cf_1_c 2
+    2300028: cf_1_c 3
+    2300030: cf_1_c 4
+    2300032: cf_1_c 5
+    2300034: cf_1_d
+    2300036: cf_1_d 1
+    2300038: cf_1_d 2
+    2300040: cf_1_d 3
+    2300042: cf_1_e
+    2300044: cf_1_f
+    2300046: cf_1_f 1
+    2300048: cf_1_g
+    2300050: cf_1_g 1
+    2300052: cf_1_g 2
+    2300054: cf_1_h
+    2300056: cf_1_i
+    2300058: cf_1_k
+    2300060: cf_1_k 1
+    2300062: cf_1_l
+    2300064: cf_2_a
+    2300066: cf_2_b
+    2300068: cf_2_c
+    2300070: cf_2_e
+    2300072: cf_2_f
+    2300074: cf_2_g
+    2300076: cf_2_h
+    2300078: cf_3
+    2300080: Object089
+    2300082: Object090
+    2300084: Object091
+    2300086: Object092
+    2300088: Object093
+    2300090: Object094
+    2300092: Object095
+    2300094: Object096
+    2300096: Object097
+    2300098: Object098
+    2300100: Object102
+    2300102: Object107
+    2300104: Cylinder011
+    2300106: Plane001
+    2300108: Plane002
+    2300110: Plane003
+    2300112: Plane004
+    2300114: Plane005
+    2300116: Plane006
+    2300118: Plane007
+    2300120: Plane008
+    2300122: Plane009
+    2300124: Plane010
+    2300126: Plane011
+    2300128: Plane012
+    2300130: Plane013
+    2300132: Plane014
+    2300134: Plane015
+    2300136: Plane016
+    2300138: Plane017
+    2300140: Plane018
+    2300142: Plane019
+    2300144: Plane020
+    2300146: Plane021
+    2300148: Plane022
+    2300150: Plane023
+    2300152: Plane024
+    2300154: Plane025
+    2300156: Plane027
+    2300158: Plane028
+    2300160: Plane029
+    2300162: Plane030
+    2300164: Plane031
+    2300166: Plane032
+    2300168: Plane033
+    2300170: Plane034
+    2300172: Plane035
+    3300000: Cylinder02
+    3300002: Object013
+    3300004: Object037
+    3300006: Object058
+    3300008: Object059
+    3300010: Object064
+    3300012: cf_1
+    3300014: cf_1_a
+    3300016: cf_1_a 1
+    3300018: cf_1_b
+    3300020: cf_1_b 1
+    3300022: cf_1_c
+    3300024: cf_1_c 1
+    3300026: cf_1_c 2
+    3300028: cf_1_c 3
+    3300030: cf_1_c 4
+    3300032: cf_1_c 5
+    3300034: cf_1_d
+    3300036: cf_1_d 1
+    3300038: cf_1_d 2
+    3300040: cf_1_d 3
+    3300042: cf_1_e
+    3300044: cf_1_f
+    3300046: cf_1_f 1
+    3300048: cf_1_g
+    3300050: cf_1_g 1
+    3300052: cf_1_g 2
+    3300054: cf_1_h
+    3300056: cf_1_i
+    3300058: cf_1_k
+    3300060: cf_1_k 1
+    3300062: cf_1_l
+    3300064: cf_2_a
+    3300066: cf_2_b
+    3300068: cf_2_c
+    3300070: cf_2_e
+    3300072: cf_2_f
+    3300074: cf_2_g
+    3300076: cf_2_h
+    3300078: cf_3
+    3300080: Object089
+    3300082: Object090
+    3300084: Object091
+    3300086: Object092
+    3300088: Object093
+    3300090: Object094
+    3300092: Object095
+    3300094: Object096
+    3300096: Object097
+    3300098: Object098
+    3300100: Object102
+    3300102: Object107
+    3300104: Cylinder011
+    3300106: Plane001
+    3300108: Plane002
+    3300110: Plane003
+    3300112: Plane004
+    3300114: Plane005
+    3300116: Plane006
+    3300118: Plane007
+    3300120: Plane008
+    3300122: Plane009
+    3300124: Plane010
+    3300126: Plane011
+    3300128: Plane012
+    3300130: Plane013
+    3300132: Plane014
+    3300134: Plane015
+    3300136: Plane016
+    3300138: Plane017
+    3300140: Plane018
+    3300142: Plane019
+    3300144: Plane020
+    3300146: Plane021
+    3300148: Plane022
+    3300150: Plane023
+    3300152: Plane024
+    3300154: Plane025
+    3300156: Plane027
+    3300158: Plane028
+    3300160: Plane029
+    3300162: Plane030
+    3300164: Plane031
+    3300166: Plane032
+    3300168: Plane033
+    3300170: Plane034
+    3300172: Plane035
+    4300000: Cylinder02
+    4300002: Object013
+    4300004: Object037
+    4300006: Object058
+    4300008: Object059
+    4300010: Object064
+    4300012: cf_1
+    4300014: cf_1_c
+    4300016: cf_3
+    4300018: cf_1_c
+    4300020: cf_1_l
+    4300022: cf_1_k
+    4300024: cf_1_k
+    4300026: cf_1_d
+    4300028: cf_1_c
+    4300030: cf_1_f
+    4300032: cf_1_a
+    4300034: cf_1_g
+    4300036: cf_1_h
+    4300038: cf_1_b
+    4300040: cf_1_f
+    4300042: cf_1_e
+    4300044: cf_1_c
+    4300046: cf_1_d
+    4300048: cf_1_c
+    4300050: cf_1_b
+    4300052: cf_1_g
+    4300054: cf_1_d
+    4300056: cf_1_i
+    4300058: cf_1_g
+    4300060: cf_1_c
+    4300062: cf_1_a
+    4300064: cf_1_d
+    4300066: Object089
+    4300068: Object090
+    4300070: Object091
+    4300072: Object092
+    4300074: Object093
+    4300076: Object094
+    4300078: Object095
+    4300080: Object096
+    4300082: Object097
+    4300084: Object098
+    4300086: cf_2_e
+    4300088: cf_2_f
+    4300090: cf_2_h
+    4300092: Object102
+    4300094: cf_2_c
+    4300096: cf_2_a
+    4300098: cf_2_g
+    4300100: cf_2_b
+    4300102: Object107
+    4300104: Plane001
+    4300106: Cylinder011
+    4300108: Plane002
+    4300110: Plane003
+    4300112: Plane004
+    4300114: Plane005
+    4300116: Plane006
+    4300118: Plane007
+    4300120: Plane008
+    4300122: Plane009
+    4300124: Plane010
+    4300126: Plane011
+    4300128: Plane012
+    4300130: Plane013
+    4300132: Plane014
+    4300134: Plane015
+    4300136: Plane016
+    4300138: Plane017
+    4300140: Plane018
+    4300142: Plane019
+    4300144: Plane020
+    4300146: Plane021
+    4300148: Plane022
+    4300150: Plane023
+    4300152: Plane024
+    4300154: Plane025
+    4300156: Plane027
+    4300158: Plane028
+    4300160: Plane029
+    4300162: Plane030
+    4300164: Plane031
+    4300166: Plane032
+    4300168: Plane033
+    4300170: Plane034
+    4300172: Plane035
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.26
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: share/fbx/round.ab
+  assetBundleVariant: 

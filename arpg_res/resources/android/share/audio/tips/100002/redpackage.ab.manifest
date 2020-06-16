@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3359380772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3fded9e29a3c0ae27ca30ba7e9d4a37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100002/redpackage.mp3
+Dependencies: []

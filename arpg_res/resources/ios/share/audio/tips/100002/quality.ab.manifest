@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3411909664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3e752e9e2508afb3be1af227aeac059
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100002/quality.mp3
+Dependencies: []

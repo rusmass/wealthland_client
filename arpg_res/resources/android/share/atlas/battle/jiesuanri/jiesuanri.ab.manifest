@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2413420182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4503be3672d163376d3406c21cf7fcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/jiesuanri/roleimgbg.png
+- Assets/share/atlas/battle/jiesuanri/effectbg.png
+- Assets/share/atlas/battle/jiesuanri/tipbargg.png
+- Assets/share/atlas/battle/jiesuanri/rigitbgone.png
+- Assets/share/atlas/battle/jiesuanri/huanguanimg.png
+- Assets/share/atlas/battle/jiesuanri/settlement_date_caishen.png
+- Assets/share/atlas/battle/jiesuanri/gongxi.png
+Dependencies: []

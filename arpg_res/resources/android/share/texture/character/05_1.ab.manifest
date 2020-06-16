@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3437221249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce2063e3f1b25bcea2d8df49c2a700d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/character/05_1.png
+Dependencies: []

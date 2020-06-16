@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1749898903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b2a8b412930c6b8da0392cf9d08d481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e52e7f62affa9907662eb7d51864c95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/particle/inner_ring_free_time.prefab
+Dependencies: []

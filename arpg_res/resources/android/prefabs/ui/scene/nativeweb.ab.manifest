@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1876403844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8191d61929425358777bf27d7c93415a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43172c51b22aa78e1e7ec59e7aad312a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/ui/scene/nativeweb.prefab
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/atlas/battle/newcard/newcard.ab"

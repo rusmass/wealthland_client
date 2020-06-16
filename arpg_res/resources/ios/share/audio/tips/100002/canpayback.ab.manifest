@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 986231499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d68f457e97dc712d5d94961c727f70f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100002/canpayback.mp3
+Dependencies: []

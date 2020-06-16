@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2758601991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c263fe8d24621d72b5d3426a2860781
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fbx/Materials/1.mat
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/texture/ditu/1.ab"

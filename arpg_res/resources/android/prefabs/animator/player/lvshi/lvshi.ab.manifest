@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 504504923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edd48b1ce1ce017e7bc145f3a4b62cee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 926267ba1e07172edf42f19041d391f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/player/lvshi/faguan.tga
+- Assets/prefabs/animator/player/lvshi/faguantiao.FBX
+- Assets/prefabs/animator/player/lvshi/gameLvAction.controller
+- Assets/prefabs/animator/player/lvshi/faguanxiuxian01.FBX
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/prefabs/animator/chooserole/lvshi/lvshi.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/prefabs/animator/player/materials/materials.ab"

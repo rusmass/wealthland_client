@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3537244073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc57761c1a5745a8c131205b254a744f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/sun/sun0025.png
+- Assets/share/atlas/battle/sun/sun0018.png
+- Assets/share/atlas/battle/sun/sun0003.png
+- Assets/share/atlas/battle/sun/sun0008.png
+- Assets/share/atlas/battle/sun/sun0016.png
+- Assets/share/atlas/battle/sun/sun0020.png
+- Assets/share/atlas/battle/sun/sun0013.png
+- Assets/share/atlas/battle/sun/sun0005.png
+- Assets/share/atlas/battle/sun/sun0006.png
+- Assets/share/atlas/battle/sun/sun0015.png
+- Assets/share/atlas/battle/sun/sun0004.png
+- Assets/share/atlas/battle/sun/sun0002.png
+- Assets/share/atlas/battle/sun/sun0012.png
+- Assets/share/atlas/battle/sun/sun0024.png
+- Assets/share/atlas/battle/sun/sun0011.png
+- Assets/share/atlas/battle/sun/sun0023.png
+- Assets/share/atlas/battle/sun/sun0014.png
+- Assets/share/atlas/battle/sun/sun0017.png
+- Assets/share/atlas/battle/sun/sun0001.png
+- Assets/share/atlas/battle/sun/sun0022.png
+- Assets/share/atlas/battle/sun/sun0019.png
+- Assets/share/atlas/battle/sun/sun0027.png
+- Assets/share/atlas/battle/sun/sun0010.png
+- Assets/share/atlas/battle/sun/sun0021.png
+- Assets/share/atlas/battle/sun/sun0009.png
+- Assets/share/atlas/battle/sun/sun0028.png
+- Assets/share/atlas/battle/sun/sun0007.png
+- Assets/share/atlas/battle/sun/sun0026.png
+Dependencies: []

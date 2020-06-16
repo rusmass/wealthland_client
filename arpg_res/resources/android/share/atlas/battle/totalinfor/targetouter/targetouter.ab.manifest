@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1864099206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86082cfe3524bee4d2fcd4dba55094c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/totalinfor/targetouter/integral_record_quality_integration.png
+- Assets/share/atlas/battle/totalinfor/targetouter/nonincome.png
+- Assets/share/atlas/battle/totalinfor/targetouter/integral_record_bg_1.png
+- Assets/share/atlas/battle/totalinfor/targetouter/target_pig.png
+- Assets/share/atlas/battle/totalinfor/targetouter/mubiao.png
+- Assets/share/atlas/battle/totalinfor/targetouter/integral_record_bg_2.png
+- Assets/share/atlas/battle/totalinfor/targetouter/jifenjilu.png
+- Assets/share/atlas/battle/totalinfor/targetouter/integral_record_time_integral.png
+- Assets/share/atlas/battle/totalinfor/targetouter/target.png
+- Assets/share/atlas/battle/totalinfor/targetouter/zhu2.png
+- Assets/share/atlas/battle/totalinfor/targetouter/integral_record.png
+- Assets/share/atlas/battle/totalinfor/targetouter/anniu.png
+- Assets/share/atlas/battle/totalinfor/targetouter/outertarget.png
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4028577586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ed7a8afef8a06f108a839e32341e243
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/paybackrecord/loan_bg_1.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_bg_1.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_base_debt.png
+- Assets/share/atlas/battle/paybackrecord/loan_button_2.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_choice_button_selected.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_expenditure1.png
+- Assets/share/atlas/battle/paybackrecord/loan_button_1.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_expenditure.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_choice_button_normal.png
+- Assets/share/atlas/battle/paybackrecord/loan_bg_3.png
+- Assets/share/atlas/battle/paybackrecord/loan_shangxian.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_new_liabilities.png
+- Assets/share/atlas/battle/paybackrecord/loan_bg_2.png
+- Assets/share/atlas/battle/paybackrecord/debt_repayment_amount_of_debt.png
+- Assets/share/atlas/battle/paybackrecord/loan_kedaikuan.png
+- Assets/share/atlas/battle/paybackrecord/loan_yidaikuan.png
+Dependencies: []

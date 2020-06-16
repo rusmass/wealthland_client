@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1393735302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e0011b5b921bcaf724979a4f4684332
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66282ee90c68ac7400eddd65d212ca3b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/chooseRole/hushi/xuanzexiuxian.FBX
+- Assets/prefabs/animator/chooseRole/hushi/zhanlidaiji.FBX
+- Assets/prefabs/animator/chooseRole/hushi/chooseHuShiAction.controller
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/prefabs/animator/chooserole/hushi/materials/materials.ab"

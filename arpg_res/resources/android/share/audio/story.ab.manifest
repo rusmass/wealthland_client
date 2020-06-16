@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1899334351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90ad8bab7b4b51e0a029f69fcedf7ea3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/story.mp3
+Dependencies: []

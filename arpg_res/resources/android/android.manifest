@@ -1,0 +1,2002 @@
+ManifestFileVersion: 0
+CRC: 2349486569
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs/animator/03/03.ab
+      Dependencies: {}
+    Info_1:
+      Name: prefabs/animator/btneffect/btneffect.ab
+      Dependencies: {}
+    Info_2:
+      Name: prefabs/animator/card/card.ab
+      Dependencies: {}
+    Info_3:
+      Name: prefabs/animator/chooserole/baoan/materials/materials.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/baoan/baoan.ab
+    Info_4:
+      Name: prefabs/animator/chooserole/baoan/baoan.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/baoan/materials/materials.ab
+    Info_5:
+      Name: prefabs/animator/chooserole/hushi/materials/materials.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/hushi/hushi.ab
+    Info_6:
+      Name: prefabs/animator/chooserole/hushi/hushi.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/hushi/materials/materials.ab
+    Info_7:
+      Name: prefabs/animator/chooserole/lvshi/materials/materials.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/lvshi/lvshi.ab
+    Info_8:
+      Name: prefabs/animator/chooserole/lvshi/lvshi.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/lvshi/materials/materials.ab
+    Info_9:
+      Name: prefabs/animator/chooserole/siji/materials/materials.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/siji/siji.ab
+    Info_10:
+      Name: prefabs/animator/chooserole/siji/siji.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/siji/materials/materials.ab
+    Info_11:
+      Name: prefabs/animator/gameover/gameover.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/victory/victory.ab
+    Info_12:
+      Name: prefabs/animator/go/go.ab
+      Dependencies: {}
+    Info_13:
+      Name: prefabs/animator/gold/gold.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/gold/gold.ab
+    Info_14:
+      Name: prefabs/animator/light/light.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/aroundlight/aroundlight.ab
+    Info_15:
+      Name: prefabs/animator/load/load.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/loading/gif/gif.ab
+    Info_16:
+      Name: prefabs/animator/player/baoan/baoan.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/baoan/baoan.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+    Info_17:
+      Name: prefabs/animator/player/hushi/hushi.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/hushi/hushi.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+    Info_18:
+      Name: prefabs/animator/player/lvshi/lvshi.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/lvshi/lvshi.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+    Info_19:
+      Name: prefabs/animator/player/materials/materials.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/baoan/baoan.ab
+        Dependency_1: prefabs/animator/player/hushi/hushi.ab
+        Dependency_2: prefabs/animator/player/lvshi/lvshi.ab
+        Dependency_3: prefabs/animator/player/siji/siji.ab
+    Info_20:
+      Name: prefabs/animator/player/siji/siji.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/siji/siji.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+    Info_21:
+      Name: prefabs/animator/player/player.ab
+      Dependencies: {}
+    Info_22:
+      Name: prefabs/animator/saizi/saizi.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/touzi/touzi.ab
+    Info_23:
+      Name: prefabs/animator/touzi/touzi.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/touzi/touzi.ab
+    Info_24:
+      Name: prefabs/animator/waitng/waitng.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/waitloading/waitloading.ab
+    Info_25:
+      Name: prefabs/character/01.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/hushi/hushi.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+        Dependency_2: share/materials/yingzi.ab
+    Info_26:
+      Name: prefabs/character/02.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/lvshi/lvshi.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+        Dependency_2: share/materials/yingzi.ab
+    Info_27:
+      Name: prefabs/character/03.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/materials/materials.ab
+        Dependency_1: prefabs/animator/player/siji/siji.ab
+        Dependency_2: share/materials/yingzi.ab
+    Info_28:
+      Name: prefabs/character/04.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/baoan/baoan.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+        Dependency_2: share/materials/yingzi.ab
+    Info_29:
+      Name: prefabs/character/05.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/hushi/hushi.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+        Dependency_2: share/materials/yingzi.ab
+    Info_30:
+      Name: prefabs/character/06.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/player/lvshi/lvshi.ab
+        Dependency_1: prefabs/animator/player/materials/materials.ab
+        Dependency_2: share/materials/yingzi.ab
+    Info_31:
+      Name: prefabs/character/06222.ab
+      Dependencies:
+        Dependency_0: share/materials/yingzi.ab
+    Info_32:
+      Name: prefabs/level/battle_scene.ab
+      Dependencies:
+        Dependency_0: share/fbx/materials/1.ab
+        Dependency_1: share/fbx/materials/10.ab
+        Dependency_2: share/fbx/materials/12.ab
+        Dependency_3: share/fbx/materials/2.ab
+        Dependency_4: share/fbx/materials/3.ab
+        Dependency_5: share/fbx/materials/4.ab
+        Dependency_6: share/fbx/materials/5.ab
+        Dependency_7: share/fbx/materials/7.ab
+        Dependency_8: share/fbx/materials/mapbggound.ab
+        Dependency_9: share/fbx/ditu.ab
+        Dependency_10: share/fbx/round.ab
+        Dependency_11: share/materials/ditu/neiquan/jiankangzixun.ab
+        Dependency_12: share/materials/ditu/neiquan/jiezhangri1.ab
+        Dependency_13: share/materials/ditu/neiquan/jinxiuxuexi.ab
+        Dependency_14: share/materials/ditu/neiquan/kaishi.ab
+        Dependency_15: share/materials/ditu/neiquan/mingyun1.ab
+        Dependency_16: share/materials/ditu/neiquan/tishengshenghuopinzhi3.ab
+        Dependency_17: share/materials/ditu/neiquan/touzi01.ab
+        Dependency_18: share/materials/ditu/neiquan/youqianyouxian1.ab
+        Dependency_19: share/materials/ditu/neiquan/ziyouxuanze.ab
+        Dependency_20: share/materials/ditu/waiquan/cishan.ab
+        Dependency_21: share/materials/ditu/waiquan/fenxian1.ab
+        Dependency_22: share/materials/ditu/waiquan/jiankangguanli.ab
+        Dependency_23: share/materials/ditu/waiquan/jiezhangri1.ab
+        Dependency_24: share/materials/ditu/waiquan/jihui1.ab
+        Dependency_25: share/materials/ditu/waiquan/jinxiuxuexi.ab
+        Dependency_26: share/materials/ditu/waiquan/kaishi.ab
+        Dependency_27: share/materials/ditu/waiquan/mingyun1.ab
+        Dependency_28: share/materials/ditu/waiquan/shenghaizi.ab
+        Dependency_29: share/materials/ditu01.ab
+        Dependency_30: share/materials/tiankong.ab
+    Info_33:
+      Name: prefabs/particle/closing_date.ab
+      Dependencies: {}
+    Info_34:
+      Name: prefabs/particle/fxcomichit1largezap.ab
+      Dependencies: {}
+    Info_35:
+      Name: prefabs/particle/inner_ring_fate.ab
+      Dependencies: {}
+    Info_36:
+      Name: prefabs/particle/inner_ring_free_time.ab
+      Dependencies: {}
+    Info_37:
+      Name: prefabs/particle/inner_ring_investment.ab
+      Dependencies: {}
+    Info_38:
+      Name: prefabs/particle/inner_ring_quality_life.ab
+      Dependencies: {}
+    Info_39:
+      Name: prefabs/particle/outer_ring_fate.ab
+      Dependencies: {}
+    Info_40:
+      Name: prefabs/particle/outer_ring_great_opportunity.ab
+      Dependencies: {}
+    Info_41:
+      Name: prefabs/particle/outer_ring_little_chance.ab
+      Dependencies: {}
+    Info_42:
+      Name: prefabs/particle/outer_ring_risk.ab
+      Dependencies: {}
+    Info_43:
+      Name: prefabs/particle/specialcharitycard.ab
+      Dependencies: {}
+    Info_44:
+      Name: prefabs/particle/specialchild.ab
+      Dependencies: {}
+    Info_45:
+      Name: prefabs/particle/specialhealth.ab
+      Dependencies: {}
+    Info_46:
+      Name: prefabs/particle/specialstudy.ab
+      Dependencies: {}
+    Info_47:
+      Name: prefabs/particle/toon crash 01 ps.ab
+      Dependencies: {}
+    Info_48:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidborrow.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/go/go.ab
+        Dependency_1: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_49:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidgame.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/go/go.ab
+        Dependency_1: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_50:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidgamehall.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/go/go.ab
+        Dependency_1: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_51:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidnetselect.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/go/go.ab
+        Dependency_1: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_52:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidpayback.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_53:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidroom.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_54:
+      Name: prefabs/ui/scene/newplayerguid/uinewguidselect.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newplayguid/newplayguid.ab
+    Info_55:
+      Name: prefabs/ui/scene/show/uishowbig.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+    Info_56:
+      Name: prefabs/ui/scene/show/uishowfate.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_57:
+      Name: prefabs/ui/scene/show/uishowinvestment.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_58:
+      Name: prefabs/ui/scene/show/uishowquality.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_59:
+      Name: prefabs/ui/scene/show/uishowrelax.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_60:
+      Name: prefabs/ui/scene/show/uishowrisk.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_61:
+      Name: prefabs/ui/scene/show/uishowsmall.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+    Info_62:
+      Name: prefabs/ui/scene/uiinforboards/heroinforboard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/role/role.ab
+        Dependency_1: share/atlas/battle/totalinfor/heroinfor/heroinfor.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_63:
+      Name: prefabs/ui/scene/uiinforboards/inforbalanceincome.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_2: share/atlas/battle/totalinfor/balanceinfor/balanceinfor.ab
+        Dependency_3: share/atlas/battle/totalinfor/debtandpay/debtandpay.ab
+        Dependency_4: share/atlas/battle/totalinfor/targetouter/targetouter.ab
+        Dependency_5: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_64:
+      Name: prefabs/ui/scene/uiinforboards/infordebtandpay.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_2: share/atlas/battle/totalinfor/balanceinfor/balanceinfor.ab
+        Dependency_3: share/atlas/battle/totalinfor/debtandpay/debtandpay.ab
+        Dependency_4: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_65:
+      Name: prefabs/ui/scene/uiinforboards/sellboard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/saleinfor/saleinfor.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_66:
+      Name: prefabs/ui/scene/uiinforboards/settlementboard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/settleinfor/settleinfor.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_67:
+      Name: prefabs/ui/scene/uiinforboards/settlementrecords.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/settleinfor/settleinfor.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_68:
+      Name: prefabs/ui/scene/uiinforboards/targetinforinner.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/targetinner/targetinner.ab
+        Dependency_2: share/atlas/battle/totalinfor/targetouter/targetouter.ab
+        Dependency_3: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_69:
+      Name: prefabs/ui/scene/uiinforboards/targetinforouter.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/targetouter/targetouter.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_70:
+      Name: prefabs/ui/scene/uiinforboards/totalinforboard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newborrow/newborrow.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+        Dependency_3: share/texture/head/baoan.ab
+    Info_71:
+      Name: prefabs/ui/scene/cardboard.ab
+      Dependencies: {}
+    Info_72:
+      Name: prefabs/ui/scene/chanceshares.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_73:
+      Name: prefabs/ui/scene/checkout.ab
+      Dependencies: {}
+    Info_74:
+      Name: prefabs/ui/scene/checkoutdetail.ab
+      Dependencies: {}
+    Info_75:
+      Name: prefabs/ui/scene/chooserole.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/baoan/baoan.ab
+        Dependency_1: prefabs/animator/chooserole/hushi/hushi.ab
+        Dependency_2: prefabs/animator/chooserole/lvshi/lvshi.ab
+        Dependency_3: prefabs/animator/chooserole/siji/siji.ab
+        Dependency_4: prefabs/animator/player/baoan/baoan.ab
+        Dependency_5: prefabs/animator/player/hushi/hushi.ab
+        Dependency_6: prefabs/animator/player/lvshi/lvshi.ab
+        Dependency_7: prefabs/animator/player/materials/materials.ab
+        Dependency_8: prefabs/animator/player/siji/siji.ab
+        Dependency_9: share/atlas/battle/chooserole/chooserolebg/chooserolebg.ab
+        Dependency_10: share/atlas/battle/chooserole/chooserole.ab
+        Dependency_11: share/atlas/battle/newborrow/newborrow.ab
+        Dependency_12: share/atlas/battle/newcard/newcard.ab
+        Dependency_13: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+        Dependency_14: share/texture/head/baoan.ab
+        Dependency_15: share/texture/head/lvshi.ab
+        Dependency_16: share/texture/head/siji.ab
+        Dependency_17: share/texture/head/yisheng.ab
+    Info_76:
+      Name: prefabs/ui/scene/gameautotip.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_77:
+      Name: prefabs/ui/scene/gamehallset.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/setscene/setscene.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_78:
+      Name: prefabs/ui/scene/gamerecorddetail.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/personalcenter/personalcenter.ab
+        Dependency_1: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+        Dependency_2: share/texture/head/lvshi.ab
+    Info_79:
+      Name: prefabs/ui/scene/gamerecordlist.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_1: share/atlas/battle/personalcenter/personalcenter.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_80:
+      Name: prefabs/ui/scene/gameset.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/setscene/setscene.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_81:
+      Name: prefabs/ui/scene/gameshareboard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_82:
+      Name: prefabs/ui/scene/gametipboard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_1: share/atlas/battle/newborrow/newborrowbg/newborrowbg.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_4: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_83:
+      Name: prefabs/ui/scene/gametipconnect.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_84:
+      Name: prefabs/ui/scene/gametipsimple.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_85:
+      Name: prefabs/ui/scene/gametipsureornot.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_86:
+      Name: prefabs/ui/scene/headimageperfab.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+    Info_87:
+      Name: prefabs/ui/scene/innerbuycare.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+    Info_88:
+      Name: prefabs/ui/scene/innerfate.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/saizi/saizi.ab
+        Dependency_1: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_2: share/atlas/battle/card/card.ab
+        Dependency_3: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_4: share/atlas/battle/newcard/newcard.ab
+        Dependency_5: share/atlas/battle/touzi/touzi.ab
+    Info_89:
+      Name: prefabs/ui/scene/investment.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/saizi/saizi.ab
+        Dependency_1: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_2: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_3: share/atlas/battle/newcard/newcard.ab
+        Dependency_4: share/atlas/battle/touzi/touzi.ab
+    Info_90:
+      Name: prefabs/ui/scene/moneyperfab.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/gold/gold.ab
+        Dependency_1: share/atlas/battle/gold/gold.ab
+    Info_91:
+      Name: prefabs/ui/scene/nativeweb.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+    Info_92:
+      Name: prefabs/ui/scene/netgamechoosescene.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/baoan/baoan.ab
+        Dependency_1: prefabs/animator/chooserole/hushi/hushi.ab
+        Dependency_2: prefabs/animator/chooserole/lvshi/lvshi.ab
+        Dependency_3: prefabs/animator/chooserole/siji/siji.ab
+        Dependency_4: prefabs/animator/player/baoan/baoan.ab
+        Dependency_5: prefabs/animator/player/hushi/hushi.ab
+        Dependency_6: prefabs/animator/player/lvshi/lvshi.ab
+        Dependency_7: prefabs/animator/player/materials/materials.ab
+        Dependency_8: prefabs/animator/player/siji/siji.ab
+        Dependency_9: share/atlas/battle/chooserole/chooserolebg/chooserolebg.ab
+        Dependency_10: share/atlas/battle/chooserole/netchoosebgs/netchoosebgs.ab
+        Dependency_11: share/atlas/battle/chooserole/chooserole.ab
+        Dependency_12: share/atlas/battle/tipwordbg/tipwordbg.ab
+        Dependency_13: share/texture/head/baoan.ab
+        Dependency_14: share/texture/head/lvshi.ab
+        Dependency_15: share/texture/head/siji.ab
+        Dependency_16: share/texture/head/yisheng.ab
+    Info_93:
+      Name: prefabs/ui/scene/netselectrolegame.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/chooserole/baoan/baoan.ab
+        Dependency_1: prefabs/animator/chooserole/hushi/hushi.ab
+        Dependency_2: prefabs/animator/chooserole/lvshi/lvshi.ab
+        Dependency_3: prefabs/animator/chooserole/siji/siji.ab
+        Dependency_4: prefabs/animator/player/baoan/baoan.ab
+        Dependency_5: prefabs/animator/player/hushi/hushi.ab
+        Dependency_6: prefabs/animator/player/lvshi/lvshi.ab
+        Dependency_7: prefabs/animator/player/materials/materials.ab
+        Dependency_8: prefabs/animator/player/siji/siji.ab
+        Dependency_9: share/atlas/battle/chooserole/netchoosebgs/netchoosebgs.ab
+        Dependency_10: share/atlas/battle/chooserole/netchoosebigg/netchoosebigg.ab
+        Dependency_11: share/atlas/battle/chooserole/chooserole.ab
+        Dependency_12: share/atlas/battle/tipwordbg/tipwordbg.ab
+        Dependency_13: share/texture/head/baoan.ab
+        Dependency_14: share/texture/head/lvshi.ab
+        Dependency_15: share/texture/head/siji.ab
+        Dependency_16: share/texture/head/yisheng.ab
+    Info_94:
+      Name: prefabs/ui/scene/opportunitycard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+    Info_95:
+      Name: prefabs/ui/scene/outerfatecard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_96:
+      Name: prefabs/ui/scene/personalcenter.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/fightroom/fightroom.ab
+        Dependency_1: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_2: share/atlas/battle/personalcenter/personalcenter.ab
+        Dependency_3: share/atlas/battle/playerhead/playerhead.ab
+        Dependency_4: share/atlas/battle/setscene/setscene.ab
+        Dependency_5: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+        Dependency_6: share/texture/head/lvshi.ab
+    Info_97:
+      Name: prefabs/ui/scene/qualitylifecard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_98:
+      Name: prefabs/ui/scene/relaxcard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_99:
+      Name: prefabs/ui/scene/riskcard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_100:
+      Name: prefabs/ui/scene/selfcreaterole.ab
+      Dependencies: {}
+    Info_101:
+      Name: prefabs/ui/scene/uibalanceinfor.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+    Info_102:
+      Name: prefabs/ui/scene/uibalanceshareinfor.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_103:
+      Name: prefabs/ui/scene/uibattle.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/go/go.ab
+        Dependency_1: prefabs/animator/light/light.ab
+        Dependency_2: prefabs/animator/touzi/touzi.ab
+        Dependency_3: share/atlas/battle/aroundlight/aroundlight.ab
+        Dependency_4: share/atlas/battle/battlemain/battlemainbg/welcomebg/welcomebg.ab
+        Dependency_5: share/atlas/battle/battlemain/battlemainbg/battlemainbg.ab
+        Dependency_6: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_7: share/atlas/battle/newcard/newcard.ab
+        Dependency_8: share/atlas/battle/tipwordbg/tipwordbg.ab
+        Dependency_9: share/atlas/battle/touzi/touzi.ab
+        Dependency_10: share/atlas/battle/waiquanjiaoyi/waiquanjiaoyi.ab
+        Dependency_11: share/texture/head/lvshi.ab
+    Info_104:
+      Name: prefabs/ui/scene/uibindphone.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/forgetpassword/forgetpassword.ab
+        Dependency_1: share/atlas/battle/login/login.ab
+    Info_105:
+      Name: prefabs/ui/scene/uiborrow.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newborrow/newborrowbg/newborrowbg.ab
+        Dependency_1: share/atlas/battle/newborrow/newborrow.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_4: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+        Dependency_5: share/texture/head/baoan.ab
+    Info_106:
+      Name: prefabs/ui/scene/uiborrowfriend.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/consulting/consulting.ab
+        Dependency_1: share/atlas/battle/fightroom/fightroom.ab
+        Dependency_2: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_3: share/atlas/battle/newborrow/newborrow.ab
+    Info_107:
+      Name: prefabs/ui/scene/uichanceselect.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_108:
+      Name: prefabs/ui/scene/uiconclusion.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/conclusion/conclusion.ab
+        Dependency_1: share/atlas/battle/newborrow/newborrow.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_109:
+      Name: prefabs/ui/scene/uiconclusiondetail.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_110:
+      Name: prefabs/ui/scene/uiconclusionnew.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/conclusion/conclusion.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_111:
+      Name: prefabs/ui/scene/uicondition.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newborrow/newborrowbg/newborrowbg.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_3: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+        Dependency_4: share/atlas/battle/waiquanjiaoyi/waiquanjiaoyi.ab
+    Info_112:
+      Name: prefabs/ui/scene/uiconsulting.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/consulting/consulting.ab
+        Dependency_1: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_113:
+      Name: prefabs/ui/scene/uienterinner.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/jiesuanri/jiesuanri.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_114:
+      Name: prefabs/ui/scene/uientersuccess.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_1: share/atlas/battle/jiesuanri/jiesuanri.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/role/role.ab
+    Info_115:
+      Name: prefabs/ui/scene/uieventlog.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/conclusion/conclusion.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_4: share/atlas/battle/totalinfor/balanceinfor/balanceinfor.ab
+        Dependency_5: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_116:
+      Name: prefabs/ui/scene/uifeedback.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_117:
+      Name: prefabs/ui/scene/uifeeling.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_118:
+      Name: prefabs/ui/scene/uifeellist.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/consulting/consulting.ab
+        Dependency_1: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_119:
+      Name: prefabs/ui/scene/uifightmatch.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/fightroom/fightroom.ab
+        Dependency_1: share/atlas/battle/gamehall/gamehall.ab
+    Info_120:
+      Name: prefabs/ui/scene/uifightroom.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/fightroom/fightroom.ab
+        Dependency_1: share/atlas/battle/gamehall/gamehall.ab
+    Info_121:
+      Name: prefabs/ui/scene/uifriendborrowinfor.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/consulting/consulting.ab
+        Dependency_1: share/atlas/battle/fightroom/fightroom.ab
+        Dependency_2: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_3: share/atlas/battle/newborrow/newborrow.ab
+    Info_122:
+      Name: prefabs/ui/scene/uigamegonggao.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_123:
+      Name: prefabs/ui/scene/uigamehall.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_1: share/atlas/battle/playerhead/playerhead.ab
+    Info_124:
+      Name: prefabs/ui/scene/uigamehallchat.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_1: share/atlas/battle/gamehallchat/gamehallchat.ab
+        Dependency_2: share/atlas/battle/paybackrecord/paybackrecord.ab
+        Dependency_3: share/atlas/battle/playerhead/playerhead.ab
+    Info_125:
+      Name: prefabs/ui/scene/uigamemail.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/consulting/consulting.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_126:
+      Name: prefabs/ui/scene/uigetredpacket.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/redpacket/redpacket.ab
+    Info_127:
+      Name: prefabs/ui/scene/uigold.ab
+      Dependencies: {}
+    Info_128:
+      Name: prefabs/ui/scene/uiloading.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/load/load.ab
+        Dependency_1: share/atlas/battle/loading/gif/gif.ab
+        Dependency_2: share/atlas/battle/loading/loading.ab
+    Info_129:
+      Name: prefabs/ui/scene/uilogingame.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/login/login.ab
+    Info_130:
+      Name: prefabs/ui/scene/uiloginnew.ab
+      Dependencies: {}
+    Info_131:
+      Name: prefabs/ui/scene/uimessagehint.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+        Dependency_1: share/fonts/carton.ab
+    Info_132:
+      Name: prefabs/ui/scene/uimessagetips.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+        Dependency_1: share/fonts/carton.ab
+    Info_133:
+      Name: prefabs/ui/scene/uinetgameloading.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/load/load.ab
+        Dependency_1: share/atlas/battle/loading/gif/gif.ab
+        Dependency_2: share/atlas/battle/loading/loading.ab
+        Dependency_3: share/atlas/battle/role/role.ab
+    Info_134:
+      Name: prefabs/ui/scene/uinetloading.ab
+      Dependencies:
+        Dependency_0: prefabs/animator/waitng/waitng.ab
+        Dependency_1: share/atlas/battle/waitloading/waitloading.ab
+    Info_135:
+      Name: prefabs/ui/scene/uiothercard.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/card/card.ab
+        Dependency_1: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+    Info_136:
+      Name: prefabs/ui/scene/uiovergame.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/role/role.ab
+    Info_137:
+      Name: prefabs/ui/scene/uiovergamenew.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/newcard/newcard.ab
+        Dependency_1: share/atlas/battle/newgameover/newgameover.ab
+        Dependency_2: share/atlas/battle/role/role.ab
+    Info_138:
+      Name: prefabs/ui/scene/uiplayerinfor.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/createrole/createrole.ab
+        Dependency_1: share/atlas/battle/gamehall/gamehall.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/playerhead/playerhead.ab
+    Info_139:
+      Name: prefabs/ui/scene/uirankwindow.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/consulting/consulting.ab
+        Dependency_1: share/atlas/battle/gamerank/gamerank.ab
+        Dependency_2: share/atlas/battle/newcard/newcard.ab
+        Dependency_3: share/atlas/battle/playerhead/playerhead.ab
+        Dependency_4: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_140:
+      Name: prefabs/ui/scene/uireadyscene.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_141:
+      Name: prefabs/ui/scene/uireconnectwait.ab
+      Dependencies: {}
+    Info_142:
+      Name: prefabs/ui/scene/uiregistgo.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/forgetpassword/forgetpassword.ab
+        Dependency_1: share/atlas/battle/login/login.ab
+    Info_143:
+      Name: prefabs/ui/scene/uiselectforfree.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/cardtitle/cardtitle.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_144:
+      Name: prefabs/ui/scene/uiselectserver.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/login/login.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+        Dependency_2: share/atlas/battle/setscene/setscene.ab
+        Dependency_3: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+    Info_145:
+      Name: prefabs/ui/scene/uisetexitgame.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/tipwordbg/tipwordbg.ab
+    Info_146:
+      Name: prefabs/ui/scene/uispecialeffects.ab
+      Dependencies:
+        Dependency_0: share/fonts/num/numfont.ab
+    Info_147:
+      Name: prefabs/ui/scene/uistartguild.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_1: share/atlas/battle/consulting/consulting.ab
+        Dependency_2: share/particles/glow/glow001.ab
+        Dependency_3: share/particles/shanguang/shanguang001.ab
+        Dependency_4: share/texture/uistartguid/indexa.ab
+    Info_148:
+      Name: prefabs/ui/scene/uitest.ab
+      Dependencies: {}
+    Info_149:
+      Name: prefabs/ui/scene/uitimercount.ab
+      Dependencies:
+        Dependency_0: share/atlas/battle/battlemain/battlemain.ab
+        Dependency_1: share/atlas/battle/newcard/newcard.ab
+    Info_150:
+      Name: prefabs/luopan.ab
+      Dependencies:
+        Dependency_0: share/fbx/materials/no name.ab
+        Dependency_1: share/fbx/luopan.ab
+    Info_151:
+      Name: share/atlas/battle/aroundlight/aroundlight.ab
+      Dependencies: {}
+    Info_152:
+      Name: share/atlas/battle/battlemain/battlemainbg/welcomebg/welcomebg.ab
+      Dependencies: {}
+    Info_153:
+      Name: share/atlas/battle/battlemain/battlemainbg/battlemainbg.ab
+      Dependencies: {}
+    Info_154:
+      Name: share/atlas/battle/battlemain/battlemain.ab
+      Dependencies: {}
+    Info_155:
+      Name: share/atlas/battle/card/chancecard1/chancecard1.ab
+      Dependencies: {}
+    Info_156:
+      Name: share/atlas/battle/card/fixedcard1/fixedcard1.ab
+      Dependencies: {}
+    Info_157:
+      Name: share/atlas/battle/card/innercard1/innercard1.ab
+      Dependencies: {}
+    Info_158:
+      Name: share/atlas/battle/card/investment1/investment1.ab
+      Dependencies: {}
+    Info_159:
+      Name: share/atlas/battle/card/investment2/investment2.ab
+      Dependencies: {}
+    Info_160:
+      Name: share/atlas/battle/card/opportunity1/opportunity1.ab
+      Dependencies: {}
+    Info_161:
+      Name: share/atlas/battle/card/opportunity2/opportunity2.ab
+      Dependencies: {}
+    Info_162:
+      Name: share/atlas/battle/card/outerfate1/outerfate1.ab
+      Dependencies: {}
+    Info_163:
+      Name: share/atlas/battle/card/outerfate2/outerfate2.ab
+      Dependencies: {}
+    Info_164:
+      Name: share/atlas/battle/card/qualitylife1/qualitylife1.ab
+      Dependencies: {}
+    Info_165:
+      Name: share/atlas/battle/card/qualitylife2/qualitylife2.ab
+      Dependencies: {}
+    Info_166:
+      Name: share/atlas/battle/card/qualitylife3/qualitylife3.ab
+      Dependencies: {}
+    Info_167:
+      Name: share/atlas/battle/card/relax1/relax1.ab
+      Dependencies: {}
+    Info_168:
+      Name: share/atlas/battle/card/relax2/relax2.ab
+      Dependencies: {}
+    Info_169:
+      Name: share/atlas/battle/card/relax3/relax3.ab
+      Dependencies: {}
+    Info_170:
+      Name: share/atlas/battle/card/risk1/risk1.ab
+      Dependencies: {}
+    Info_171:
+      Name: share/atlas/battle/card/risk2/risk2.ab
+      Dependencies: {}
+    Info_172:
+      Name: share/atlas/battle/card/risk3/risk3.ab
+      Dependencies: {}
+    Info_173:
+      Name: share/atlas/battle/card/specaill1/specaill1.ab
+      Dependencies: {}
+    Info_174:
+      Name: share/atlas/battle/card/card.ab
+      Dependencies: {}
+    Info_175:
+      Name: share/atlas/battle/cardtitle/cardtitle.ab
+      Dependencies: {}
+    Info_176:
+      Name: share/atlas/battle/chooserole/chooserolebg/chooserolebg.ab
+      Dependencies: {}
+    Info_177:
+      Name: share/atlas/battle/chooserole/netchoosebgs/netchoosebgs.ab
+      Dependencies: {}
+    Info_178:
+      Name: share/atlas/battle/chooserole/netchoosebigg/netchoosebigg.ab
+      Dependencies: {}
+    Info_179:
+      Name: share/atlas/battle/chooserole/chooserole.ab
+      Dependencies: {}
+    Info_180:
+      Name: share/atlas/battle/conclusion/conclusion.ab
+      Dependencies: {}
+    Info_181:
+      Name: share/atlas/battle/consulting/consulting.ab
+      Dependencies: {}
+    Info_182:
+      Name: share/atlas/battle/createrole/createrole.ab
+      Dependencies: {}
+    Info_183:
+      Name: share/atlas/battle/fightroom/fightroom.ab
+      Dependencies: {}
+    Info_184:
+      Name: share/atlas/battle/forgetpassword/forgetpassword.ab
+      Dependencies: {}
+    Info_185:
+      Name: share/atlas/battle/gamehall/gamehall.ab
+      Dependencies: {}
+    Info_186:
+      Name: share/atlas/battle/gamehallchat/gamehallchat.ab
+      Dependencies: {}
+    Info_187:
+      Name: share/atlas/battle/gamerank/gamerank.ab
+      Dependencies: {}
+    Info_188:
+      Name: share/atlas/battle/gold/gold.ab
+      Dependencies: {}
+    Info_189:
+      Name: share/atlas/battle/headtitle/headtitle.ab
+      Dependencies: {}
+    Info_190:
+      Name: share/atlas/battle/jiesuanri/jiesuanri.ab
+      Dependencies: {}
+    Info_191:
+      Name: share/atlas/battle/letter/letter.ab
+      Dependencies: {}
+    Info_192:
+      Name: share/atlas/battle/loading/gif/gif.ab
+      Dependencies: {}
+    Info_193:
+      Name: share/atlas/battle/loading/loading.ab
+      Dependencies: {}
+    Info_194:
+      Name: share/atlas/battle/login/login.ab
+      Dependencies: {}
+    Info_195:
+      Name: share/atlas/battle/minusres/minusres.ab
+      Dependencies: {}
+    Info_196:
+      Name: share/atlas/battle/newborrow/newborrowbg/newborrowbg.ab
+      Dependencies: {}
+    Info_197:
+      Name: share/atlas/battle/newborrow/newborrow.ab
+      Dependencies: {}
+    Info_198:
+      Name: share/atlas/battle/newcard/newcard.ab
+      Dependencies: {}
+    Info_199:
+      Name: share/atlas/battle/newgameover/newgameover.ab
+      Dependencies: {}
+    Info_200:
+      Name: share/atlas/battle/newplayguid/newplayguid.ab
+      Dependencies: {}
+    Info_201:
+      Name: share/atlas/battle/number/number.ab
+      Dependencies: {}
+    Info_202:
+      Name: share/atlas/battle/paybackrecord/paybackrecord.ab
+      Dependencies: {}
+    Info_203:
+      Name: share/atlas/battle/personalcenter/personalcenter.ab
+      Dependencies: {}
+    Info_204:
+      Name: share/atlas/battle/playerhead/playerhead.ab
+      Dependencies: {}
+    Info_205:
+      Name: share/atlas/battle/plusres/plusres.ab
+      Dependencies: {}
+    Info_206:
+      Name: share/atlas/battle/redpacket/redpacket.ab
+      Dependencies: {}
+    Info_207:
+      Name: share/atlas/battle/role/role.ab
+      Dependencies: {}
+    Info_208:
+      Name: share/atlas/battle/setscene/setscene.ab
+      Dependencies: {}
+    Info_209:
+      Name: share/atlas/battle/sun/sun.ab
+      Dependencies: {}
+    Info_210:
+      Name: share/atlas/battle/tipwordbg/tipwordbg.ab
+      Dependencies: {}
+    Info_211:
+      Name: share/atlas/battle/totalinfor/balanceinfor/balanceinfor.ab
+      Dependencies: {}
+    Info_212:
+      Name: share/atlas/battle/totalinfor/debtandpay/debtandpay.ab
+      Dependencies: {}
+    Info_213:
+      Name: share/atlas/battle/totalinfor/heroinfor/heroinfor.ab
+      Dependencies: {}
+    Info_214:
+      Name: share/atlas/battle/totalinfor/saleinfor/saleinfor.ab
+      Dependencies: {}
+    Info_215:
+      Name: share/atlas/battle/totalinfor/settleinfor/settleinfor.ab
+      Dependencies: {}
+    Info_216:
+      Name: share/atlas/battle/totalinfor/targetinner/targetinner.ab
+      Dependencies: {}
+    Info_217:
+      Name: share/atlas/battle/totalinfor/targetouter/targetouter.ab
+      Dependencies: {}
+    Info_218:
+      Name: share/atlas/battle/totalinfor/totalinforboard/totalinforboard.ab
+      Dependencies: {}
+    Info_219:
+      Name: share/atlas/battle/touzi/touzi.ab
+      Dependencies: {}
+    Info_220:
+      Name: share/atlas/battle/victory/victory.ab
+      Dependencies: {}
+    Info_221:
+      Name: share/atlas/battle/waiquanjiaoyi/waiquanjiaoyi.ab
+      Dependencies: {}
+    Info_222:
+      Name: share/atlas/battle/waitloading/waitloading.ab
+      Dependencies: {}
+    Info_223:
+      Name: share/atlas/battle/wordlitter/wordlitter.ab
+      Dependencies: {}
+    Info_224:
+      Name: share/audio/tips/100001/buyinsurance.ab
+      Dependencies: {}
+    Info_225:
+      Name: share/audio/tips/100001/canpayback.ab
+      Dependencies: {}
+    Info_226:
+      Name: share/audio/tips/100001/chance.ab
+      Dependencies: {}
+    Info_227:
+      Name: share/audio/tips/100001/checkday.ab
+      Dependencies: {}
+    Info_228:
+      Name: share/audio/tips/100001/fate.ab
+      Dependencies: {}
+    Info_229:
+      Name: share/audio/tips/100001/givechild.ab
+      Dependencies: {}
+    Info_230:
+      Name: share/audio/tips/100001/investmentlose.ab
+      Dependencies: {}
+    Info_231:
+      Name: share/audio/tips/100001/investmentwin.ab
+      Dependencies: {}
+    Info_232:
+      Name: share/audio/tips/100001/quality.ab
+      Dependencies: {}
+    Info_233:
+      Name: share/audio/tips/100001/redpackage.ab
+      Dependencies: {}
+    Info_234:
+      Name: share/audio/tips/100001/relax.ab
+      Dependencies: {}
+    Info_235:
+      Name: share/audio/tips/100001/risk.ab
+      Dependencies: {}
+    Info_236:
+      Name: share/audio/tips/100001/turnedme.ab
+      Dependencies: {}
+    Info_237:
+      Name: share/audio/tips/100002/buyinsurance.ab
+      Dependencies: {}
+    Info_238:
+      Name: share/audio/tips/100002/canpayback.ab
+      Dependencies: {}
+    Info_239:
+      Name: share/audio/tips/100002/chance.ab
+      Dependencies: {}
+    Info_240:
+      Name: share/audio/tips/100002/checkday.ab
+      Dependencies: {}
+    Info_241:
+      Name: share/audio/tips/100002/fate.ab
+      Dependencies: {}
+    Info_242:
+      Name: share/audio/tips/100002/givechild.ab
+      Dependencies: {}
+    Info_243:
+      Name: share/audio/tips/100002/investmentlose.ab
+      Dependencies: {}
+    Info_244:
+      Name: share/audio/tips/100002/investmentwin.ab
+      Dependencies: {}
+    Info_245:
+      Name: share/audio/tips/100002/quality.ab
+      Dependencies: {}
+    Info_246:
+      Name: share/audio/tips/100002/redpackage.ab
+      Dependencies: {}
+    Info_247:
+      Name: share/audio/tips/100002/relax.ab
+      Dependencies: {}
+    Info_248:
+      Name: share/audio/tips/100002/risk.ab
+      Dependencies: {}
+    Info_249:
+      Name: share/audio/tips/100002/turnedme.ab
+      Dependencies: {}
+    Info_250:
+      Name: share/audio/tips/100005/buyinsurance.ab
+      Dependencies: {}
+    Info_251:
+      Name: share/audio/tips/100005/canpayback.ab
+      Dependencies: {}
+    Info_252:
+      Name: share/audio/tips/100005/chance.ab
+      Dependencies: {}
+    Info_253:
+      Name: share/audio/tips/100005/checkday.ab
+      Dependencies: {}
+    Info_254:
+      Name: share/audio/tips/100005/fate.ab
+      Dependencies: {}
+    Info_255:
+      Name: share/audio/tips/100005/givechild.ab
+      Dependencies: {}
+    Info_256:
+      Name: share/audio/tips/100005/investmentlose.ab
+      Dependencies: {}
+    Info_257:
+      Name: share/audio/tips/100005/investmentwin.ab
+      Dependencies: {}
+    Info_258:
+      Name: share/audio/tips/100005/quality.ab
+      Dependencies: {}
+    Info_259:
+      Name: share/audio/tips/100005/redpackage.ab
+      Dependencies: {}
+    Info_260:
+      Name: share/audio/tips/100005/relax.ab
+      Dependencies: {}
+    Info_261:
+      Name: share/audio/tips/100005/risk.ab
+      Dependencies: {}
+    Info_262:
+      Name: share/audio/tips/100005/turnedme.ab
+      Dependencies: {}
+    Info_263:
+      Name: share/audio/tips/100006/buyinsurance.ab
+      Dependencies: {}
+    Info_264:
+      Name: share/audio/tips/100006/canpayback.ab
+      Dependencies: {}
+    Info_265:
+      Name: share/audio/tips/100006/chance.ab
+      Dependencies: {}
+    Info_266:
+      Name: share/audio/tips/100006/checkday.ab
+      Dependencies: {}
+    Info_267:
+      Name: share/audio/tips/100006/fate.ab
+      Dependencies: {}
+    Info_268:
+      Name: share/audio/tips/100006/givechild.ab
+      Dependencies: {}
+    Info_269:
+      Name: share/audio/tips/100006/investmentlose.ab
+      Dependencies: {}
+    Info_270:
+      Name: share/audio/tips/100006/investmentwin.ab
+      Dependencies: {}
+    Info_271:
+      Name: share/audio/tips/100006/quality.ab
+      Dependencies: {}
+    Info_272:
+      Name: share/audio/tips/100006/redpackage.ab
+      Dependencies: {}
+    Info_273:
+      Name: share/audio/tips/100006/relax.ab
+      Dependencies: {}
+    Info_274:
+      Name: share/audio/tips/100006/risk.ab
+      Dependencies: {}
+    Info_275:
+      Name: share/audio/tips/100006/turnedme.ab
+      Dependencies: {}
+    Info_276:
+      Name: share/audio/anniu.ab
+      Dependencies: {}
+    Info_277:
+      Name: share/audio/babyla.ab
+      Dependencies: {}
+    Info_278:
+      Name: share/audio/bg01.ab
+      Dependencies: {}
+    Info_279:
+      Name: share/audio/bg02.ab
+      Dependencies: {}
+    Info_280:
+      Name: share/audio/bg03.ab
+      Dependencies: {}
+    Info_281:
+      Name: share/audio/bgm.ab
+      Dependencies: {}
+    Info_282:
+      Name: share/audio/denglu.ab
+      Dependencies: {}
+    Info_283:
+      Name: share/audio/kaishi1.ab
+      Dependencies: {}
+    Info_284:
+      Name: share/audio/kaishi2.ab
+      Dependencies: {}
+    Info_285:
+      Name: share/audio/shengli.ab
+      Dependencies: {}
+    Info_286:
+      Name: share/audio/shibai.ab
+      Dependencies: {}
+    Info_287:
+      Name: share/audio/startgbsound.ab
+      Dependencies: {}
+    Info_288:
+      Name: share/audio/story.ab
+      Dependencies: {}
+    Info_289:
+      Name: share/audio/touzhitouzi.ab
+      Dependencies: {}
+    Info_290:
+      Name: share/audio/yidong.ab
+      Dependencies: {}
+    Info_291:
+      Name: share/audio/youxi1.ab
+      Dependencies: {}
+    Info_292:
+      Name: share/audio/youxi2.ab
+      Dependencies: {}
+    Info_293:
+      Name: share/audio/youxi3.ab
+      Dependencies: {}
+    Info_294:
+      Name: share/audio/zhuanpan.ab
+      Dependencies: {}
+    Info_295:
+      Name: share/fbx/materials/01.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/01.ab
+    Info_296:
+      Name: share/fbx/materials/02.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/02.ab
+    Info_297:
+      Name: share/fbx/materials/03.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/03.ab
+    Info_298:
+      Name: share/fbx/materials/05.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/05.ab
+    Info_299:
+      Name: share/fbx/materials/1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/1.ab
+    Info_300:
+      Name: share/fbx/materials/10.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/10.ab
+    Info_301:
+      Name: share/fbx/materials/11.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/11.ab
+    Info_302:
+      Name: share/fbx/materials/12.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/12.ab
+    Info_303:
+      Name: share/fbx/materials/13.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/13.ab
+    Info_304:
+      Name: share/fbx/materials/14.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/14.ab
+    Info_305:
+      Name: share/fbx/materials/15.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/15.ab
+    Info_306:
+      Name: share/fbx/materials/18 - default.ab
+      Dependencies: {}
+    Info_307:
+      Name: share/fbx/materials/2.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/2.ab
+    Info_308:
+      Name: share/fbx/materials/23 - default.ab
+      Dependencies: {}
+    Info_309:
+      Name: share/fbx/materials/3.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/3.ab
+    Info_310:
+      Name: share/fbx/materials/4.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/4.ab
+    Info_311:
+      Name: share/fbx/materials/5.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/5.ab
+    Info_312:
+      Name: share/fbx/materials/7.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/7.ab
+    Info_313:
+      Name: share/fbx/materials/cf_1.ab
+      Dependencies: {}
+    Info_314:
+      Name: share/fbx/materials/cf_1_a.ab
+      Dependencies: {}
+    Info_315:
+      Name: share/fbx/materials/cf_1_b.ab
+      Dependencies: {}
+    Info_316:
+      Name: share/fbx/materials/cf_1_c.ab
+      Dependencies: {}
+    Info_317:
+      Name: share/fbx/materials/cf_1_d.ab
+      Dependencies: {}
+    Info_318:
+      Name: share/fbx/materials/cf_1_e.ab
+      Dependencies: {}
+    Info_319:
+      Name: share/fbx/materials/cf_1_f.ab
+      Dependencies: {}
+    Info_320:
+      Name: share/fbx/materials/cf_1_g.ab
+      Dependencies: {}
+    Info_321:
+      Name: share/fbx/materials/cf_1_h.ab
+      Dependencies: {}
+    Info_322:
+      Name: share/fbx/materials/cf_1_i.ab
+      Dependencies: {}
+    Info_323:
+      Name: share/fbx/materials/cf_1_k.ab
+      Dependencies: {}
+    Info_324:
+      Name: share/fbx/materials/cf_1_l.ab
+      Dependencies: {}
+    Info_325:
+      Name: share/fbx/materials/cf_2_a.ab
+      Dependencies: {}
+    Info_326:
+      Name: share/fbx/materials/cf_2_b.ab
+      Dependencies: {}
+    Info_327:
+      Name: share/fbx/materials/cf_2_c.ab
+      Dependencies: {}
+    Info_328:
+      Name: share/fbx/materials/cf_2_d.ab
+      Dependencies: {}
+    Info_329:
+      Name: share/fbx/materials/cf_2_e.ab
+      Dependencies: {}
+    Info_330:
+      Name: share/fbx/materials/cf_2_f.ab
+      Dependencies: {}
+    Info_331:
+      Name: share/fbx/materials/cf_2_g.ab
+      Dependencies: {}
+    Info_332:
+      Name: share/fbx/materials/cf_2_h.ab
+      Dependencies: {}
+    Info_333:
+      Name: share/fbx/materials/cf_3.ab
+      Dependencies: {}
+    Info_334:
+      Name: share/fbx/materials/jiezhangri.ab
+      Dependencies: {}
+    Info_335:
+      Name: share/fbx/materials/mapbggound.ab
+      Dependencies:
+        Dependency_0: share/texture/mapgourndbg.ab
+    Info_336:
+      Name: share/fbx/materials/mountain-ground.ab
+      Dependencies: {}
+    Info_337:
+      Name: share/fbx/materials/mountain-rock.ab
+      Dependencies: {}
+    Info_338:
+      Name: share/fbx/materials/no name.ab
+      Dependencies: {}
+    Info_339:
+      Name: share/fbx/materials/touzi.ab
+      Dependencies: {}
+    Info_340:
+      Name: share/fbx/materials/tree01.ab
+      Dependencies: {}
+    Info_341:
+      Name: "share/fbx/materials/\u5065\u5EB7\u7BA1\u7406.ab"
+      Dependencies: {}
+    Info_342:
+      Name: "share/fbx/materials/\u5065\u5EB7\u7BA1\u74062.ab"
+      Dependencies: {}
+    Info_343:
+      Name: "share/fbx/materials/\u547D\u8FD0.ab"
+      Dependencies: {}
+    Info_344:
+      Name: "share/fbx/materials/\u547D\u8FD02.ab"
+      Dependencies: {}
+    Info_345:
+      Name: "share/fbx/materials/\u5706\u76D8.ab"
+      Dependencies: {}
+    Info_346:
+      Name: "share/fbx/materials/\u5730\u9762.ab"
+      Dependencies: {}
+    Info_347:
+      Name: "share/fbx/materials/\u5F00\u59CB.ab"
+      Dependencies: {}
+    Info_348:
+      Name: "share/fbx/materials/\u6148\u5584\u4E8B\u4E1A.ab"
+      Dependencies: {}
+    Info_349:
+      Name: "share/fbx/materials/\u6295\u8D442.ab"
+      Dependencies: {}
+    Info_350:
+      Name: "share/fbx/materials/\u63D0\u5347111.ab"
+      Dependencies: {}
+    Info_351:
+      Name: "share/fbx/materials/\u6709\u94B1.ab"
+      Dependencies: {}
+    Info_352:
+      Name: "share/fbx/materials/\u6709\u94B12.ab"
+      Dependencies: {}
+    Info_353:
+      Name: "share/fbx/materials/\u673A\u4F1A.ab"
+      Dependencies: {}
+    Info_354:
+      Name: "share/fbx/materials/\u751F\u5B69\u5B50.ab"
+      Dependencies: {}
+    Info_355:
+      Name: "share/fbx/materials/\u7ED3\u8D26\u65E5.ab"
+      Dependencies: {}
+    Info_356:
+      Name: "share/fbx/materials/\u7ED3\u8D26\u65E51.ab"
+      Dependencies: {}
+    Info_357:
+      Name: "share/fbx/materials/\u81EA\u7531\u9009\u62E9.ab"
+      Dependencies: {}
+    Info_358:
+      Name: "share/fbx/materials/\u8FDB\u4FEE\u5B66\u4E60.ab"
+      Dependencies: {}
+    Info_359:
+      Name: "share/fbx/materials/\u8FDB\u4FEE\u5B66\u4E601.ab"
+      Dependencies: {}
+    Info_360:
+      Name: "share/fbx/materials/\u98CE\u9669.ab"
+      Dependencies: {}
+    Info_361:
+      Name: share/fbx/beijing.ab
+      Dependencies:
+        Dependency_0: share/materials/tiankong.ab
+        Dependency_1: share/materials/xia.ab
+    Info_362:
+      Name: share/fbx/ditu.ab
+      Dependencies:
+        Dependency_0: "share/fbx/materials/\u5065\u5EB7\u7BA1\u7406.ab"
+        Dependency_1: "share/fbx/materials/\u5065\u5EB7\u7BA1\u74062.ab"
+        Dependency_2: "share/fbx/materials/\u547D\u8FD0.ab"
+        Dependency_3: "share/fbx/materials/\u547D\u8FD02.ab"
+        Dependency_4: "share/fbx/materials/\u5706\u76D8.ab"
+        Dependency_5: "share/fbx/materials/\u5F00\u59CB.ab"
+        Dependency_6: "share/fbx/materials/\u6148\u5584\u4E8B\u4E1A.ab"
+        Dependency_7: "share/fbx/materials/\u6295\u8D442.ab"
+        Dependency_8: "share/fbx/materials/\u63D0\u5347111.ab"
+        Dependency_9: "share/fbx/materials/\u6709\u94B1.ab"
+        Dependency_10: "share/fbx/materials/\u6709\u94B12.ab"
+        Dependency_11: "share/fbx/materials/\u673A\u4F1A.ab"
+        Dependency_12: "share/fbx/materials/\u751F\u5B69\u5B50.ab"
+        Dependency_13: "share/fbx/materials/\u7ED3\u8D26\u65E5.ab"
+        Dependency_14: "share/fbx/materials/\u7ED3\u8D26\u65E51.ab"
+        Dependency_15: "share/fbx/materials/\u81EA\u7531\u9009\u62E9.ab"
+        Dependency_16: "share/fbx/materials/\u8FDB\u4FEE\u5B66\u4E60.ab"
+        Dependency_17: "share/fbx/materials/\u8FDB\u4FEE\u5B66\u4E601.ab"
+        Dependency_18: "share/fbx/materials/\u98CE\u9669.ab"
+    Info_363:
+      Name: share/fbx/luopan.ab
+      Dependencies:
+        Dependency_0: share/fbx/materials/cf_1.ab
+        Dependency_1: share/fbx/materials/cf_1_a.ab
+        Dependency_2: share/fbx/materials/cf_1_b.ab
+        Dependency_3: share/fbx/materials/cf_1_c.ab
+        Dependency_4: share/fbx/materials/cf_1_d.ab
+        Dependency_5: share/fbx/materials/cf_1_e.ab
+        Dependency_6: share/fbx/materials/cf_1_f.ab
+        Dependency_7: share/fbx/materials/cf_1_g.ab
+        Dependency_8: share/fbx/materials/cf_1_h.ab
+        Dependency_9: share/fbx/materials/cf_1_i.ab
+        Dependency_10: share/fbx/materials/cf_1_k.ab
+        Dependency_11: share/fbx/materials/cf_1_l.ab
+        Dependency_12: share/fbx/materials/cf_2_a.ab
+        Dependency_13: share/fbx/materials/cf_2_b.ab
+        Dependency_14: share/fbx/materials/cf_2_c.ab
+        Dependency_15: share/fbx/materials/cf_2_d.ab
+        Dependency_16: share/fbx/materials/cf_2_e.ab
+        Dependency_17: share/fbx/materials/cf_2_f.ab
+        Dependency_18: share/fbx/materials/cf_2_g.ab
+        Dependency_19: share/fbx/materials/cf_2_h.ab
+        Dependency_20: share/fbx/materials/cf_3.ab
+        Dependency_21: share/fbx/materials/no name.ab
+    Info_364:
+      Name: share/fbx/mount03.ab
+      Dependencies:
+        Dependency_0: share/fbx/materials/mountain-ground.ab
+        Dependency_1: share/fbx/materials/mountain-rock.ab
+    Info_365:
+      Name: share/fbx/round.ab
+      Dependencies:
+        Dependency_0: share/fbx/materials/1.ab
+        Dependency_1: share/fbx/materials/10.ab
+        Dependency_2: share/fbx/materials/11.ab
+        Dependency_3: share/fbx/materials/12.ab
+        Dependency_4: share/fbx/materials/2.ab
+        Dependency_5: share/fbx/materials/3.ab
+        Dependency_6: share/fbx/materials/4.ab
+        Dependency_7: share/fbx/materials/5.ab
+        Dependency_8: share/fbx/materials/7.ab
+        Dependency_9: share/fbx/materials/cf_1.ab
+        Dependency_10: share/fbx/materials/cf_1_a.ab
+        Dependency_11: share/fbx/materials/cf_1_b.ab
+        Dependency_12: share/fbx/materials/cf_1_c.ab
+        Dependency_13: share/fbx/materials/cf_1_d.ab
+        Dependency_14: share/fbx/materials/cf_1_e.ab
+        Dependency_15: share/fbx/materials/cf_1_f.ab
+        Dependency_16: share/fbx/materials/cf_1_g.ab
+        Dependency_17: share/fbx/materials/cf_1_h.ab
+        Dependency_18: share/fbx/materials/cf_1_i.ab
+        Dependency_19: share/fbx/materials/cf_1_k.ab
+        Dependency_20: share/fbx/materials/cf_1_l.ab
+        Dependency_21: share/fbx/materials/cf_2_a.ab
+        Dependency_22: share/fbx/materials/cf_2_b.ab
+        Dependency_23: share/fbx/materials/cf_2_c.ab
+        Dependency_24: share/fbx/materials/cf_2_d.ab
+        Dependency_25: share/fbx/materials/cf_2_e.ab
+        Dependency_26: share/fbx/materials/cf_2_f.ab
+        Dependency_27: share/fbx/materials/cf_2_g.ab
+        Dependency_28: share/fbx/materials/cf_2_h.ab
+        Dependency_29: share/fbx/materials/cf_3.ab
+        Dependency_30: share/fbx/materials/no name.ab
+        Dependency_31: "share/fbx/materials/\u5730\u9762.ab"
+    Info_366:
+      Name: share/fonts/num/numfont.ab
+      Dependencies:
+        Dependency_0: share/fonts/num/numfont_0.ab
+    Info_367:
+      Name: share/fonts/num/numfont_0.ab
+      Dependencies: {}
+    Info_368:
+      Name: share/fonts/carton.ab
+      Dependencies: {}
+    Info_369:
+      Name: share/materials/ditu/neiquan/jiankangzixun.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/17.ab
+    Info_370:
+      Name: share/materials/ditu/neiquan/jiezhangri1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/16.ab
+    Info_371:
+      Name: share/materials/ditu/neiquan/jinxiuxuexi.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/15.ab
+    Info_372:
+      Name: share/materials/ditu/neiquan/kaishi.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/18.ab
+    Info_373:
+      Name: share/materials/ditu/neiquan/mingyun1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/12.ab
+    Info_374:
+      Name: share/materials/ditu/neiquan/tishengshenghuopinzhi3.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/11.ab
+    Info_375:
+      Name: share/materials/ditu/neiquan/touzi01.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/14.ab
+    Info_376:
+      Name: share/materials/ditu/neiquan/youqianyouxian1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/10.ab
+    Info_377:
+      Name: share/materials/ditu/neiquan/ziyouxuanze.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/13.ab
+    Info_378:
+      Name: share/materials/ditu/waiquan/cishan.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/05.ab
+    Info_379:
+      Name: share/materials/ditu/waiquan/fenxian1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/02.ab
+    Info_380:
+      Name: share/materials/ditu/waiquan/fenxian3.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/12.ab
+    Info_381:
+      Name: share/materials/ditu/waiquan/jiankangguanli.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/09.ab
+    Info_382:
+      Name: share/materials/ditu/waiquan/jiezhangri1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/06.ab
+    Info_383:
+      Name: share/materials/ditu/waiquan/jihui1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/03.ab
+    Info_384:
+      Name: share/materials/ditu/waiquan/jinxiuxuexi.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/08.ab
+    Info_385:
+      Name: share/materials/ditu/waiquan/kaishi.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/19.ab
+    Info_386:
+      Name: share/materials/ditu/waiquan/mingyun1.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/04.ab
+    Info_387:
+      Name: share/materials/ditu/waiquan/shenghaizi.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/07.ab
+    Info_388:
+      Name: share/materials/uieffect/flowlight.ab
+      Dependencies: {}
+    Info_389:
+      Name: share/materials/ditu01.ab
+      Dependencies:
+        Dependency_0: share/texture/ditu/22.ab
+    Info_390:
+      Name: share/materials/jiaose01.ab
+      Dependencies:
+        Dependency_0: share/texture/character/01.ab
+    Info_391:
+      Name: share/materials/jiaose02-2.ab
+      Dependencies:
+        Dependency_0: share/texture/character/02_2.ab
+    Info_392:
+      Name: share/materials/jiaose02.ab
+      Dependencies:
+        Dependency_0: share/texture/character/02_1.ab
+    Info_393:
+      Name: share/materials/newgamebg.ab
+      Dependencies: {}
+    Info_394:
+      Name: share/materials/tiankong.ab
+      Dependencies:
+        Dependency_0: share/texture/tiankong.ab
+    Info_395:
+      Name: share/materials/xia.ab
+      Dependencies: {}
+    Info_396:
+      Name: share/materials/xianjie.ab
+      Dependencies:
+        Dependency_0: share/texture/xianjie.ab
+    Info_397:
+      Name: share/materials/yingzi.ab
+      Dependencies:
+        Dependency_0: share/shader/touming.ab
+        Dependency_1: share/texture/jiaoseyinying.ab
+    Info_398:
+      Name: share/particles/fasheguang/fangsheguang_00001.ab
+      Dependencies: {}
+    Info_399:
+      Name: share/particles/fasheguang/fangsheguang_00002.ab
+      Dependencies: {}
+    Info_400:
+      Name: share/particles/fasheguang/fangsheguang_00005.ab
+      Dependencies: {}
+    Info_401:
+      Name: share/particles/fasheguang/fangsheguang_00027.ab
+      Dependencies: {}
+    Info_402:
+      Name: share/particles/fasheguang/fangsheguang_00028.ab
+      Dependencies: {}
+    Info_403:
+      Name: share/particles/fasheguang/fangsheguang_00029.ab
+      Dependencies: {}
+    Info_404:
+      Name: share/particles/glow/glow001.ab
+      Dependencies:
+        Dependency_0: share/particles/glow/glow_00071.ab
+    Info_405:
+      Name: share/particles/glow/glow_00005.ab
+      Dependencies: {}
+    Info_406:
+      Name: share/particles/glow/glow_00015.ab
+      Dependencies: {}
+    Info_407:
+      Name: share/particles/glow/glow_00016.ab
+      Dependencies: {}
+    Info_408:
+      Name: share/particles/glow/glow_00037.ab
+      Dependencies: {}
+    Info_409:
+      Name: share/particles/glow/glow_00050.ab
+      Dependencies: {}
+    Info_410:
+      Name: share/particles/glow/glow_00053.ab
+      Dependencies: {}
+    Info_411:
+      Name: share/particles/glow/glow_00057.ab
+      Dependencies: {}
+    Info_412:
+      Name: share/particles/glow/glow_00071.ab
+      Dependencies: {}
+    Info_413:
+      Name: share/particles/glow/glow_00078.ab
+      Dependencies: {}
+    Info_414:
+      Name: share/particles/glow/glow_00079.ab
+      Dependencies: {}
+    Info_415:
+      Name: share/particles/glow/glow_00083.ab
+      Dependencies: {}
+    Info_416:
+      Name: share/particles/glow/glow_00123.ab
+      Dependencies: {}
+    Info_417:
+      Name: share/particles/glow/glow_00193.ab
+      Dependencies: {}
+    Info_418:
+      Name: share/particles/path/path_00224.ab
+      Dependencies: {}
+    Info_419:
+      Name: share/particles/path/path_00225.ab
+      Dependencies: {}
+    Info_420:
+      Name: share/particles/path/path_00226.ab
+      Dependencies: {}
+    Info_421:
+      Name: share/particles/path/path_00227.ab
+      Dependencies: {}
+    Info_422:
+      Name: share/particles/shanguang/shanguang001.ab
+      Dependencies:
+        Dependency_0: share/particles/shanguang/shanguang_00123.ab
+    Info_423:
+      Name: share/particles/shanguang/shanguang_00123.ab
+      Dependencies: {}
+    Info_424:
+      Name: share/particles/wenli/wenli_00035.ab
+      Dependencies: {}
+    Info_425:
+      Name: share/particles/wenli/wenli_00287.ab
+      Dependencies: {}
+    Info_426:
+      Name: share/particles/wenli/wenli_00288.ab
+      Dependencies: {}
+    Info_427:
+      Name: share/particles/wenli/wenli_00307.ab
+      Dependencies: {}
+    Info_428:
+      Name: share/particles/wenli/wenli_00348.ab
+      Dependencies: {}
+    Info_429:
+      Name: share/particles/wenli/wenli_00349.ab
+      Dependencies: {}
+    Info_430:
+      Name: share/particles/wenli/wenli_00361.ab
+      Dependencies: {}
+    Info_431:
+      Name: share/particles/wenli/wenli_00387.ab
+      Dependencies: {}
+    Info_432:
+      Name: share/particles/wenli/wenli_00453.ab
+      Dependencies: {}
+    Info_433:
+      Name: share/particles/wenli/wenli_00456.ab
+      Dependencies: {}
+    Info_434:
+      Name: share/shader/flowlight.ab
+      Dependencies: {}
+    Info_435:
+      Name: share/shader/liuguang.ab
+      Dependencies: {}
+    Info_436:
+      Name: share/shader/touming.ab
+      Dependencies: {}
+    Info_437:
+      Name: share/texture/character/01.ab
+      Dependencies: {}
+    Info_438:
+      Name: share/texture/character/02_1.ab
+      Dependencies: {}
+    Info_439:
+      Name: share/texture/character/02_2.ab
+      Dependencies: {}
+    Info_440:
+      Name: share/texture/character/03.ab
+      Dependencies: {}
+    Info_441:
+      Name: share/texture/character/04.ab
+      Dependencies: {}
+    Info_442:
+      Name: share/texture/character/05_1.ab
+      Dependencies: {}
+    Info_443:
+      Name: share/texture/character/05_2.ab
+      Dependencies: {}
+    Info_444:
+      Name: share/texture/character/05_3.ab
+      Dependencies: {}
+    Info_445:
+      Name: share/texture/character/06_1.ab
+      Dependencies: {}
+    Info_446:
+      Name: share/texture/character/06_2.ab
+      Dependencies: {}
+    Info_447:
+      Name: share/texture/ditu/01.ab
+      Dependencies: {}
+    Info_448:
+      Name: share/texture/ditu/02.ab
+      Dependencies: {}
+    Info_449:
+      Name: share/texture/ditu/03.ab
+      Dependencies: {}
+    Info_450:
+      Name: share/texture/ditu/04.ab
+      Dependencies: {}
+    Info_451:
+      Name: share/texture/ditu/05.ab
+      Dependencies: {}
+    Info_452:
+      Name: share/texture/ditu/06.ab
+      Dependencies: {}
+    Info_453:
+      Name: share/texture/ditu/07.ab
+      Dependencies: {}
+    Info_454:
+      Name: share/texture/ditu/08.ab
+      Dependencies: {}
+    Info_455:
+      Name: share/texture/ditu/09.ab
+      Dependencies: {}
+    Info_456:
+      Name: share/texture/ditu/1.ab
+      Dependencies: {}
+    Info_457:
+      Name: share/texture/ditu/10.ab
+      Dependencies: {}
+    Info_458:
+      Name: share/texture/ditu/11.ab
+      Dependencies: {}
+    Info_459:
+      Name: share/texture/ditu/12.ab
+      Dependencies: {}
+    Info_460:
+      Name: share/texture/ditu/13.ab
+      Dependencies: {}
+    Info_461:
+      Name: share/texture/ditu/14.ab
+      Dependencies: {}
+    Info_462:
+      Name: share/texture/ditu/15.ab
+      Dependencies: {}
+    Info_463:
+      Name: share/texture/ditu/16.ab
+      Dependencies: {}
+    Info_464:
+      Name: share/texture/ditu/17.ab
+      Dependencies: {}
+    Info_465:
+      Name: share/texture/ditu/18.ab
+      Dependencies: {}
+    Info_466:
+      Name: share/texture/ditu/19.ab
+      Dependencies: {}
+    Info_467:
+      Name: share/texture/ditu/2.ab
+      Dependencies: {}
+    Info_468:
+      Name: share/texture/ditu/20.ab
+      Dependencies: {}
+    Info_469:
+      Name: share/texture/ditu/21.ab
+      Dependencies: {}
+    Info_470:
+      Name: share/texture/ditu/22 (2).ab
+      Dependencies: {}
+    Info_471:
+      Name: share/texture/ditu/22.ab
+      Dependencies: {}
+    Info_472:
+      Name: share/texture/ditu/3.ab
+      Dependencies: {}
+    Info_473:
+      Name: share/texture/ditu/4.ab
+      Dependencies: {}
+    Info_474:
+      Name: share/texture/ditu/5.ab
+      Dependencies: {}
+    Info_475:
+      Name: share/texture/ditu/7.ab
+      Dependencies: {}
+    Info_476:
+      Name: share/texture/head/baoan.ab
+      Dependencies: {}
+    Info_477:
+      Name: share/texture/head/it_jishuyuan.ab
+      Dependencies: {}
+    Info_478:
+      Name: share/texture/head/lvshi.ab
+      Dependencies: {}
+    Info_479:
+      Name: share/texture/head/siji.ab
+      Dependencies: {}
+    Info_480:
+      Name: share/texture/head/xiaoshoujingli.ab
+      Dependencies: {}
+    Info_481:
+      Name: share/texture/head/yisheng.ab
+      Dependencies: {}
+    Info_482:
+      Name: share/texture/uistartguid/indexa.ab
+      Dependencies: {}
+    Info_483:
+      Name: share/texture/uistartguid/indexb.ab
+      Dependencies: {}
+    Info_484:
+      Name: share/texture/uistartguid/indexc.ab
+      Dependencies: {}
+    Info_485:
+      Name: share/texture/jiaoseyinying.ab
+      Dependencies: {}
+    Info_486:
+      Name: share/texture/mapgourndbg.ab
+      Dependencies: {}
+    Info_487:
+      Name: share/texture/npcjiaodisekuai.ab
+      Dependencies: {}
+    Info_488:
+      Name: share/texture/tiankong.ab
+      Dependencies: {}
+    Info_489:
+      Name: share/texture/xianjie.ab
+      Dependencies: {}
+    Info_490:
+      Name: share/texture/zhujiaojiaodisekuai.ab
+      Dependencies: {}
+    Info_491:
+      Name: share/1.ab
+      Dependencies: {}
+    Info_492:
+      Name: share/liuguang.ab
+      Dependencies: {}
+    Info_493:
+      Name: share/touming.ab
+      Dependencies: {}

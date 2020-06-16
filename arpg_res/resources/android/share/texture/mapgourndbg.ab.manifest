@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3234964002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cfa8dd6c7ea87ad6d8ae764a4a368b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/mapgourndbg.jpg
+Dependencies: []

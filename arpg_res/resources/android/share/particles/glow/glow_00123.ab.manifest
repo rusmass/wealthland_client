@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3559408527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bb351529cc7b37ed11461c071fe8340
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/particles/glow/glow_00123.tga
+Dependencies: []

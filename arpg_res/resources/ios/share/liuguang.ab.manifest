@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 820912610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c712d3f7a15f709a31e6634ed04533a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80729077cb39806c86b5c10073f074fb
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/liuguang.shader
+Dependencies: []

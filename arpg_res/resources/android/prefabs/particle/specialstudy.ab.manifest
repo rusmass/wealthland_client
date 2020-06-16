@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2428283486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42642cdf3e552bae6334893de77ec372
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e52e7f62affa9907662eb7d51864c95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/particle/specialstudy.prefab
+Dependencies: []

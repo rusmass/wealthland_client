@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1120614245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea9260ce4b0575a38c6fc6c002c40c81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/03/Take 001.anim
+- Assets/prefabs/animator/03/03.controller
+Dependencies: []

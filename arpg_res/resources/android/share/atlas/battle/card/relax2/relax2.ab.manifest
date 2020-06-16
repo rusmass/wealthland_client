@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1265787352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b32ddb69023f210c4eb90dbf66c27015
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/relax2/card_h_21.png
+- Assets/share/atlas/battle/card/relax2/card_h_14.png
+- Assets/share/atlas/battle/card/relax2/card_h_29.png
+- Assets/share/atlas/battle/card/relax2/card_h_16.png
+- Assets/share/atlas/battle/card/relax2/card_h_9.png
+- Assets/share/atlas/battle/card/relax2/card_h_15.png
+- Assets/share/atlas/battle/card/relax2/card_h_24.png
+- Assets/share/atlas/battle/card/relax2/card_h_17.png
+- Assets/share/atlas/battle/card/relax2/card_h_25.png
+- Assets/share/atlas/battle/card/relax2/card_h_28.png
+- Assets/share/atlas/battle/card/relax2/card_h_8.png
+- Assets/share/atlas/battle/card/relax2/card_h_11.png
+- Assets/share/atlas/battle/card/relax2/card_h_26.png
+- Assets/share/atlas/battle/card/relax2/card_h_12.png
+- Assets/share/atlas/battle/card/relax2/card_h_19.png
+- Assets/share/atlas/battle/card/relax2/card_h_13.png
+Dependencies: []

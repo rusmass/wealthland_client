@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 272657807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01083593fc614462e6c32c6260f1351a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e91bf4d7bfc7c90eaa9aea5318d52d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/materials/ditu/waiquan/jinxiuxuexi.mat
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/texture/ditu/08.ab"

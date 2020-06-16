@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2089248602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3019004235a4c2819d30471b3e3e8529
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/victory/caidai40082.png
+- Assets/share/atlas/battle/victory/caidai40029.png
+- Assets/share/atlas/battle/victory/caidai40001.png
+- Assets/share/atlas/battle/victory/caidai40053.png
+- Assets/share/atlas/battle/victory/caidai40081.png
+- Assets/share/atlas/battle/victory/caidai40037.png
+- Assets/share/atlas/battle/victory/caidai40017.png
+- Assets/share/atlas/battle/victory/caidai40009.png
+- Assets/share/atlas/battle/victory/caidai40073.png
+- Assets/share/atlas/battle/victory/caidai40041.png
+- Assets/share/atlas/battle/victory/caidai40069.png
+- Assets/share/atlas/battle/victory/caidai40065.png
+- Assets/share/atlas/battle/victory/caidai40005.png
+- Assets/share/atlas/battle/victory/caidai40021.png
+- Assets/share/atlas/battle/victory/caidai40077.png
+- Assets/share/atlas/battle/victory/caidai40045.png
+- Assets/share/atlas/battle/victory/caidai40057.png
+- Assets/share/atlas/battle/victory/caidai40033.png
+- Assets/share/atlas/battle/victory/caidai40025.png
+- Assets/share/atlas/battle/victory/caidai40049.png
+- Assets/share/atlas/battle/victory/caidai40061.png
+- Assets/share/atlas/battle/victory/caidai40013.png
+Dependencies: []

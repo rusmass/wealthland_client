@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 709593046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16503afc20a6c467ae2a1dc809b003f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/battlemain/goldbarbg.png
+- Assets/share/atlas/battle/battlemain/shijianjifen.png
+- Assets/share/atlas/battle/battlemain/yellowtiaotw.png
+- Assets/share/atlas/battle/battlemain/yellow_tiao.png
+- Assets/share/atlas/battle/battlemain/normalchatboard.png
+- Assets/share/atlas/battle/battlemain/qualitybarbg.png
+- Assets/share/atlas/battle/battlemain/zhandoujilu.png
+- Assets/share/atlas/battle/battlemain/startguidone.png
+- Assets/share/atlas/battle/battlemain/startguidtwo.png
+- Assets/share/atlas/battle/battlemain/dian_3.png
+- Assets/share/atlas/battle/battlemain/reminder_1.png
+- Assets/share/atlas/battle/battlemain/lefttopchat.png
+- Assets/share/atlas/battle/battlemain/imgoffline.png
+- Assets/share/atlas/battle/battlemain/wihtebarbg.png
+- Assets/share/atlas/battle/battlemain/chatbglight.png
+- Assets/share/atlas/battle/battlemain/nonincomeicon.png
+- Assets/share/atlas/battle/battlemain/dian_2.png
+- Assets/share/atlas/battle/battlemain/chatbggray.png
+- Assets/share/atlas/battle/battlemain/dian_1.png
+- Assets/share/atlas/battle/battlemain/zanting.png
+- Assets/share/atlas/battle/battlemain/jiedai.png
+- Assets/share/atlas/battle/battlemain/playerbgbg.png
+- Assets/share/atlas/battle/battlemain/chatinputbg.png
+- Assets/share/atlas/battle/battlemain/startbgimg.png
+- Assets/share/atlas/battle/battlemain/dian_4.png
+- Assets/share/atlas/battle/battlemain/controllertipbar.png
+- Assets/share/atlas/battle/battlemain/timebarbg.png
+- Assets/share/atlas/battle/battlemain/namebgban.png
+- Assets/share/atlas/battle/battlemain/red_tiao.png
+- Assets/share/atlas/battle/battlemain/btnchat.png
+- Assets/share/atlas/battle/battlemain/dian_6.png
+- Assets/share/atlas/battle/battlemain/zixun.png
+- Assets/share/atlas/battle/battlemain/btn_micchat.png
+- Assets/share/atlas/battle/battlemain/normalchatbtn.png
+- Assets/share/atlas/battle/battlemain/leftbottomchat.png
+- Assets/share/atlas/battle/battlemain/zichangold.png
+- Assets/share/atlas/battle/battlemain/chatbgbg.png
+- Assets/share/atlas/battle/battlemain/blackbarbg.png
+- Assets/share/atlas/battle/battlemain/GO.png
+- Assets/share/atlas/battle/battlemain/pingzhijifen.png
+- Assets/share/atlas/battle/battlemain/dian_5.png
+Dependencies: []

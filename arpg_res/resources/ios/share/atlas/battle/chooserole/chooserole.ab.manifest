@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4036871210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60ba3b5c2ddc0a718d92fbf02991329f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/chooserole/zongzhichu.png
+- Assets/share/atlas/battle/chooserole/mask.png
+- Assets/share/atlas/battle/chooserole/xiangqing.png
+- Assets/share/atlas/battle/chooserole/begin.png
+- Assets/share/atlas/battle/chooserole/zichan.png
+- Assets/share/atlas/battle/chooserole/yisheng_icon.png
+- Assets/share/atlas/battle/chooserole/shouru.png
+- Assets/share/atlas/battle/chooserole/heikuang.png
+- Assets/share/atlas/battle/chooserole/lvshi_icon.png
+- Assets/share/atlas/battle/chooserole/btnback11.png
+- Assets/share/atlas/battle/chooserole/zongshouru.png
+- Assets/share/atlas/battle/chooserole/baoan_icon.png
+- Assets/share/atlas/battle/chooserole/fuzhai.png
+- Assets/share/atlas/battle/chooserole/siji.png
+- Assets/share/atlas/battle/chooserole/fanhui_button.png
+- Assets/share/atlas/battle/chooserole/zhiyehsuoming.png
+- Assets/share/atlas/battle/chooserole/jizhe_icon.png
+- Assets/share/atlas/battle/chooserole/jizhang.png
+- Assets/share/atlas/battle/chooserole/zhichu.png
+- Assets/share/atlas/battle/chooserole/jibenxinxi.png
+- Assets/share/atlas/battle/chooserole/yuanpan.png
+- Assets/share/atlas/battle/chooserole/caikuang.png
+Dependencies: []

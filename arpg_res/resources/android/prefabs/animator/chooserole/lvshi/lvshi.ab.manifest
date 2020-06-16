@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2307512962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9291666c448e8ca64fd978f7ef37d12d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66282ee90c68ac7400eddd65d212ca3b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/chooseRole/lvshi/zhanlidaiji.FBX
+- Assets/prefabs/animator/chooseRole/lvshi/faguanxiuxian02.FBX
+- Assets/prefabs/animator/chooseRole/lvshi/chooseLvShiAction.controller
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/prefabs/animator/chooserole/lvshi/materials/materials.ab"

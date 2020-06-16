@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5d2e8b9a121644146b14f2004b0cf957
+timeCreated: 1530684536
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FZKaTong-M19S
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: share/fonts/carton.ab
+  assetBundleVariant: 

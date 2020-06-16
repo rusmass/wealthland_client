@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3585850468
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f5c29c68788c5f21697dc13d17491ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/go/btncraps.controller
+Dependencies: []

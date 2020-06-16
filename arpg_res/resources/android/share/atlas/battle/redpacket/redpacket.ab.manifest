@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3452071472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9aa270398d39ed1d62ea7fa5c7d97ec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/redpacket/open_a_red_envelope_baiban.png
+- Assets/share/atlas/battle/redpacket/red_envelope_huabian_2.png
+- Assets/share/atlas/battle/redpacket/red_envelope_bg.png
+- Assets/share/atlas/battle/redpacket/red_envelope_open.png
+- Assets/share/atlas/battle/redpacket/red_envelope_title.png
+- Assets/share/atlas/battle/redpacket/wraps_the_red_package_bg.png
+- Assets/share/atlas/battle/redpacket/red_envelope_huabian_1.png
+- Assets/share/atlas/battle/redpacket/wraps_the_red_package_1.png
+- Assets/share/atlas/battle/redpacket/open_a_red_envelope_bg.png
+- Assets/share/atlas/battle/redpacket/wraps_the_red_package_baiban.png
+- Assets/share/atlas/battle/redpacket/hand_out_red_envelopes_1.png
+Dependencies: []

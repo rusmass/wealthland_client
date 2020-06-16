@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4084797566
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8a83bb3d51ff9718ba5e2154663bc03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/npcjiaodisekuai.jpg
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2436825283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53be4ae5bd05ea916578891695068eed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100005/chance.mp3
+Dependencies: []

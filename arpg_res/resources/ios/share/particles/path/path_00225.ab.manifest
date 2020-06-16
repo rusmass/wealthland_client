@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 885408227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 705d2f2266decf08bdc9719185f1b25b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/particles/path/path_00225.tga
+Dependencies: []

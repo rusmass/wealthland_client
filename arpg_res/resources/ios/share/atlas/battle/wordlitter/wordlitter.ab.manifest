@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 625682538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17a2471932fef3d537bc7bbcd62a09ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/wordlitter/litterb.png
+- Assets/share/atlas/battle/wordlitter/littera.png
+- Assets/share/atlas/battle/wordlitter/litters.png
+- Assets/share/atlas/battle/wordlitter/littere.png
+- Assets/share/atlas/battle/wordlitter/litterc.png
+- Assets/share/atlas/battle/wordlitter/litterf.png
+- Assets/share/atlas/battle/wordlitter/litterd.png
+Dependencies: []

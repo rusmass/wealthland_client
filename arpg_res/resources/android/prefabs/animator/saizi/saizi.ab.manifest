@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3035311574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 305138b74f6e9da7f9393ae70be70923
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef1f461d3c9d7dd6d05b6fc7798993c1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/saizi/sai.anim
+- Assets/prefabs/animator/saizi/siazi.controller
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/atlas/battle/touzi/touzi.ab"

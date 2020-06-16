@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 200330977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8983c4b4925a5145b15aad2f1d65972
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef1f461d3c9d7dd6d05b6fc7798993c1
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefabs/animator/gold/zhuan.anim
+- Assets/prefabs/animator/gold/gold.controller
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/android/share/atlas/battle/gold/gold.ab"

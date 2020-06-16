@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1589983701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 478445ba41c2f8222ca6863f152abfbc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47d2e78a642f6f4f52d67f76b4957c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fbx/beijing.FBX
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/tiankong.ab"
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/materials/xia.ab"

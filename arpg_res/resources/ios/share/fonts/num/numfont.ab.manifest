@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 874238708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1af5fa1001e59201cd6578b5f40616e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db3608062a458c153fa2d2bbe9649662
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/fonts/num/numFont.fontsettings
+- Assets/share/fonts/num/numFont.mat
+- Assets/share/fonts/num/numFont.fnt
+Dependencies:
+- "D:/Code/Website/\u7406\u8D22/richlife/arpg_res/resources/ios/share/fonts/num/numfont_0.ab"

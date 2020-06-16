@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2437313877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f42d05df703f48e52e1bbec76c91afe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/youxi3.mp3
+Dependencies: []

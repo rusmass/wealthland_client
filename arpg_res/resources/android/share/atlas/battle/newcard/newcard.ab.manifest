@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 348199159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dacb74c1788fbbb93c98ae5114c2c88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/newcard/xuanze.png
+- Assets/share/atlas/battle/newcard/diban.png
+- Assets/share/atlas/battle/newcard/fangqi.png
+- Assets/share/atlas/battle/newcard/close.png
+- Assets/share/atlas/battle/newcard/plusshares.png
+- Assets/share/atlas/battle/newcard/jiedai.png
+- Assets/share/atlas/battle/newcard/baise_dibang1.png
+- Assets/share/atlas/battle/newcard/clockpic.png
+- Assets/share/atlas/battle/newcard/inner_ring_fate.png
+- Assets/share/atlas/battle/newcard/cexiao.png
+- Assets/share/atlas/battle/newcard/baise_dibang2.png
+- Assets/share/atlas/battle/newcard/baise_dibang.png
+- Assets/share/atlas/battle/newcard/gupiaochushou.png
+- Assets/share/atlas/battle/newcard/inputbarbg.png
+- Assets/share/atlas/battle/newcard/outer_ring_risk_button_selected.png
+- Assets/share/atlas/battle/newcard/outer_ring_risk_button_normal.png
+- Assets/share/atlas/battle/newcard/outer_ring_fate.png
+- Assets/share/atlas/battle/newcard/buttonnew.png
+- Assets/share/atlas/battle/newcard/mairu.png
+- Assets/share/atlas/battle/newcard/queren.png
+- Assets/share/atlas/battle/newcard/gupiaogoumai.png
+- Assets/share/atlas/battle/newcard/chushou.png
+- Assets/share/atlas/battle/newcard/sharemianban.png
+- Assets/share/atlas/battle/newcard/likai.png
+- Assets/share/atlas/battle/newcard/minusshares.png
+Dependencies: []

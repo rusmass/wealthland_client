@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: f3ceffe11ff60ec42b78191bdfc27722
+timeCreated: 1477383759
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cf_1
+    100002: cf_1_a
+    100004: cf_1_a 1
+    100006: cf_1_b
+    100008: cf_1_b 1
+    100010: cf_1_c
+    100012: cf_1_c 1
+    100014: cf_1_c 2
+    100016: cf_1_c 3
+    100018: cf_1_c 4
+    100020: cf_1_c 5
+    100022: cf_1_d
+    100024: cf_1_d 1
+    100026: cf_1_d 2
+    100028: cf_1_d 3
+    100030: cf_1_e
+    100032: cf_1_f
+    100034: cf_1_f 1
+    100036: cf_1_g
+    100038: cf_1_g 1
+    100040: cf_1_g 2
+    100042: cf_1_h
+    100044: cf_1_i
+    100046: cf_1_k
+    100048: cf_1_k 1
+    100050: cf_1_l
+    100052: cf_2_a
+    100054: cf_2_b
+    100056: cf_2_c
+    100058: cf_2_e
+    100060: cf_2_f
+    100062: cf_2_g
+    100064: cf_2_h
+    100066: cf_3
+    100068: Cylinder011
+    100070: Cylinder10
+    100072: //RootNode
+    100074: Object058
+    100076: Object059
+    100078: Object089
+    100080: Object090
+    100082: Object091
+    100084: Object092
+    100086: Object093
+    100088: Object094
+    100090: Object095
+    100092: Object096
+    100094: Object097
+    100096: Object098
+    100098: Object102
+    100100: Object107
+    400000: cf_1
+    400002: cf_1_a
+    400004: cf_1_a 1
+    400006: cf_1_b
+    400008: cf_1_b 1
+    400010: cf_1_c
+    400012: cf_1_c 1
+    400014: cf_1_c 2
+    400016: cf_1_c 3
+    400018: cf_1_c 4
+    400020: cf_1_c 5
+    400022: cf_1_d
+    400024: cf_1_d 1
+    400026: cf_1_d 2
+    400028: cf_1_d 3
+    400030: cf_1_e
+    400032: cf_1_f
+    400034: cf_1_f 1
+    400036: cf_1_g
+    400038: cf_1_g 1
+    400040: cf_1_g 2
+    400042: cf_1_h
+    400044: cf_1_i
+    400046: cf_1_k
+    400048: cf_1_k 1
+    400050: cf_1_l
+    400052: cf_2_a
+    400054: cf_2_b
+    400056: cf_2_c
+    400058: cf_2_e
+    400060: cf_2_f
+    400062: cf_2_g
+    400064: cf_2_h
+    400066: cf_3
+    400068: Cylinder011
+    400070: Cylinder10
+    400072: //RootNode
+    400074: Object058
+    400076: Object059
+    400078: Object089
+    400080: Object090
+    400082: Object091
+    400084: Object092
+    400086: Object093
+    400088: Object094
+    400090: Object095
+    400092: Object096
+    400094: Object097
+    400096: Object098
+    400098: Object102
+    400100: Object107
+    2300000: cf_1
+    2300002: cf_1_a
+    2300004: cf_1_a 1
+    2300006: cf_1_b
+    2300008: cf_1_b 1
+    2300010: cf_1_c
+    2300012: cf_1_c 1
+    2300014: cf_1_c 2
+    2300016: cf_1_c 3
+    2300018: cf_1_c 4
+    2300020: cf_1_c 5
+    2300022: cf_1_d
+    2300024: cf_1_d 1
+    2300026: cf_1_d 2
+    2300028: cf_1_d 3
+    2300030: cf_1_e
+    2300032: cf_1_f
+    2300034: cf_1_f 1
+    2300036: cf_1_g
+    2300038: cf_1_g 1
+    2300040: cf_1_g 2
+    2300042: cf_1_h
+    2300044: cf_1_i
+    2300046: cf_1_k
+    2300048: cf_1_k 1
+    2300050: cf_1_l
+    2300052: cf_2_a
+    2300054: cf_2_b
+    2300056: cf_2_c
+    2300058: cf_2_e
+    2300060: cf_2_f
+    2300062: cf_2_g
+    2300064: cf_2_h
+    2300066: cf_3
+    2300068: Cylinder011
+    2300070: Object058
+    2300072: Object059
+    2300074: Object089
+    2300076: Object090
+    2300078: Object091
+    2300080: Object092
+    2300082: Object093
+    2300084: Object094
+    2300086: Object095
+    2300088: Object096
+    2300090: Object097
+    2300092: Object098
+    2300094: Object102
+    2300096: Object107
+    3300000: cf_1
+    3300002: cf_1_a
+    3300004: cf_1_a 1
+    3300006: cf_1_b
+    3300008: cf_1_b 1
+    3300010: cf_1_c
+    3300012: cf_1_c 1
+    3300014: cf_1_c 2
+    3300016: cf_1_c 3
+    3300018: cf_1_c 4
+    3300020: cf_1_c 5
+    3300022: cf_1_d
+    3300024: cf_1_d 1
+    3300026: cf_1_d 2
+    3300028: cf_1_d 3
+    3300030: cf_1_e
+    3300032: cf_1_f
+    3300034: cf_1_f 1
+    3300036: cf_1_g
+    3300038: cf_1_g 1
+    3300040: cf_1_g 2
+    3300042: cf_1_h
+    3300044: cf_1_i
+    3300046: cf_1_k
+    3300048: cf_1_k 1
+    3300050: cf_1_l
+    3300052: cf_2_a
+    3300054: cf_2_b
+    3300056: cf_2_c
+    3300058: cf_2_e
+    3300060: cf_2_f
+    3300062: cf_2_g
+    3300064: cf_2_h
+    3300066: cf_3
+    3300068: Cylinder011
+    3300070: Object058
+    3300072: Object059
+    3300074: Object089
+    3300076: Object090
+    3300078: Object091
+    3300080: Object092
+    3300082: Object093
+    3300084: Object094
+    3300086: Object095
+    3300088: Object096
+    3300090: Object097
+    3300092: Object098
+    3300094: Object102
+    3300096: Object107
+    4300000: cf_1
+    4300002: cf_1_c
+    4300004: Object058
+    4300006: Object059
+    4300008: cf_3
+    4300010: cf_1_c
+    4300012: cf_1_l
+    4300014: cf_1_k
+    4300016: cf_1_k
+    4300018: cf_1_d
+    4300020: cf_1_c
+    4300022: cf_1_f
+    4300024: cf_1_a
+    4300026: cf_1_g
+    4300028: cf_1_h
+    4300030: cf_1_b
+    4300032: cf_1_f
+    4300034: cf_1_e
+    4300036: cf_1_c
+    4300038: cf_1_d
+    4300040: cf_1_c
+    4300042: cf_1_b
+    4300044: cf_1_g
+    4300046: cf_1_d
+    4300048: cf_1_i
+    4300050: cf_1_g
+    4300052: cf_1_c
+    4300054: cf_1_a
+    4300056: cf_1_d
+    4300058: Object089
+    4300060: Object090
+    4300062: Object091
+    4300064: Object092
+    4300066: Object093
+    4300068: Object094
+    4300070: Object095
+    4300072: Object096
+    4300074: Object097
+    4300076: Object098
+    4300078: cf_2_e
+    4300080: cf_2_f
+    4300082: cf_2_h
+    4300084: Object102
+    4300086: cf_2_c
+    4300088: cf_2_a
+    4300090: cf_2_g
+    4300092: cf_2_b
+    4300094: Object107
+    4300096: Cylinder011
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.26
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: share/fbx/luopan.ab
+  assetBundleVariant: 

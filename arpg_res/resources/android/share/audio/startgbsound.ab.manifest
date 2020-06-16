@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 791509399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e3cb5c4fa65c25a95e90ebbba51580f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/startgbsound.mp3
+Dependencies: []

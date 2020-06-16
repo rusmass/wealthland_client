@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3436208340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fb16d7a6ba8e8affd3fc77244a55fe4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/consulting/shanchu.png
+- Assets/share/atlas/battle/consulting/lingqu.png
+- Assets/share/atlas/battle/consulting/btnarrow.png
+- Assets/share/atlas/battle/consulting/advisory_function_wenhao.png
+- Assets/share/atlas/battle/consulting/tiaoguoimg.png
+- Assets/share/atlas/battle/consulting/advisory_function_zixungongneng.png
+- Assets/share/atlas/battle/consulting/tiaoguo.png
+- Assets/share/atlas/battle/consulting/advisory_function_bg_1.png
+- Assets/share/atlas/battle/consulting/yijianshanchu.png
+- Assets/share/atlas/battle/consulting/yijianlingqu.png
+- Assets/share/atlas/battle/consulting/advisory_function_line.png
+- Assets/share/atlas/battle/consulting/advivebar.png
+Dependencies: []

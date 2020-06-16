@@ -1,0 +1,9 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+AndroidManifest.xml	../Main/AndroidManifest.xml	1
+InstallReceiver.java	../Main/InstallReceiver.java	1
+LogHelper.java	../Main/LogHelper.java	1
+MainActivity.java	../Main/MainActivity.java	1
+UnZip.java	../Main/UnZip.java	1
+build.bat	../Main/build.bat	1
+public.xml	../Main/res/values/public.xml	1
+strings.xml	../Main/res/values/strings.xml	1

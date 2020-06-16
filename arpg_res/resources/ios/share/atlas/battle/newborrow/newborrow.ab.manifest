@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1449552128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cb11fb158966cb405dc396d24c07b5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/newborrow/biaoti2.png
+- Assets/share/atlas/battle/newborrow/fuzaihuankuan.png
+- Assets/share/atlas/battle/newborrow/buycard.png
+- Assets/share/atlas/battle/newborrow/bgimgback.png
+- Assets/share/atlas/battle/newborrow/cardscalebazi.png
+- Assets/share/atlas/battle/newborrow/huadongtiao.png
+- Assets/share/atlas/battle/newborrow/yinghangincon.png
+- Assets/share/atlas/battle/newborrow/jiluicon.png
+- Assets/share/atlas/battle/newborrow/latiao.png
+- Assets/share/atlas/battle/newborrow/shoudongshuru.png
+- Assets/share/atlas/battle/newborrow/anniu.png
+- Assets/share/atlas/battle/newborrow/caifuicon.png
+- Assets/share/atlas/battle/newborrow/latiao2.png
+- Assets/share/atlas/battle/newborrow/biaoti.png
+- Assets/share/atlas/battle/newborrow/xingyongka.png
+- Assets/share/atlas/battle/newborrow/diban.png
+- Assets/share/atlas/battle/newborrow/yinghangdaikuan.png
+- Assets/share/atlas/battle/newborrow/bgimgfont.png
+- Assets/share/atlas/battle/newborrow/banzi.png
+Dependencies: []

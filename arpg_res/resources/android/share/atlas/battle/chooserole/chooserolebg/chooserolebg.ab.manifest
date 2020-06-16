@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2836344671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5f32fb6a1efacfef2873b514db3ae80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/chooserole/chooserolebg/bg.jpg
+Dependencies: []

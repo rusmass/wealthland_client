@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4033151067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a8b04e79e3253e13098d44099a7592d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/gamerank/paihang3.png
+- Assets/share/atlas/battle/gamerank/paihang5.png
+- Assets/share/atlas/battle/gamerank/paihang9.png
+- Assets/share/atlas/battle/gamerank/huoyuebang.png
+- Assets/share/atlas/battle/gamerank/paihang1.png
+- Assets/share/atlas/battle/gamerank/paihangbang.png
+- Assets/share/atlas/battle/gamerank/paihang6.png
+- Assets/share/atlas/battle/gamerank/zichanbang1.png
+- Assets/share/atlas/battle/gamerank/paihang10.png
+- Assets/share/atlas/battle/gamerank/bg1.png
+- Assets/share/atlas/battle/gamerank/paihang7.png
+- Assets/share/atlas/battle/gamerank/paihang2.png
+- Assets/share/atlas/battle/gamerank/paihang4.png
+- Assets/share/atlas/battle/gamerank/paihang8.png
+- Assets/share/atlas/battle/gamerank/dengjibang1.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1040354030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d0132a08213b49fc7ec3a542a9c7eff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100001/risk.mp3
+Dependencies: []

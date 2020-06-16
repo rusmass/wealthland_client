@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1717795439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac4d7d7027a4b17692683c91b1188e1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/card/qualitylife1/card_f_1.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_32.png
+- Assets/share/atlas/battle/card/qualitylife1/card_a_45.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_22.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_5.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_11.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_7.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_24.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_26.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_40.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_8.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_38.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_3.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_6.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_2.png
+- Assets/share/atlas/battle/card/qualitylife1/card_f_39.png
+Dependencies: []

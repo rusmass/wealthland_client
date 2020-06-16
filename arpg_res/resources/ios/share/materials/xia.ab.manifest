@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3586461850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be4ec75732eafe29a3c51493a7e3cfb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c08275c813a4630703081edab8d6bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/materials/xia.mat
+Dependencies: []

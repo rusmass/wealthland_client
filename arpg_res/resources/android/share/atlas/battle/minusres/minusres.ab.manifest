@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 545381314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a08663493ed72926479f75e61c35f20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/atlas/battle/minusres/8.png
+- Assets/share/atlas/battle/minusres/0.png
+- Assets/share/atlas/battle/minusres/6.png
+- Assets/share/atlas/battle/minusres/3.png
+- Assets/share/atlas/battle/minusres/1.png
+- Assets/share/atlas/battle/minusres/-.png
+- Assets/share/atlas/battle/minusres/5.png
+- Assets/share/atlas/battle/minusres/7.png
+- Assets/share/atlas/battle/minusres/4.png
+- Assets/share/atlas/battle/minusres/2.png
+- Assets/share/atlas/battle/minusres/9.png
+Dependencies: []

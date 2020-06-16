@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3530406632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4a1bcbb354a85a61403a96f6eb6d633
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/audio/tips/100001/checkday.mp3
+Dependencies: []

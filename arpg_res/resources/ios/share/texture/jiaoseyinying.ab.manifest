@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 569477614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2be693f3c1d26799ea3d2fbe6b2248a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/texture/jiaoseyinying.tga
+Dependencies: []

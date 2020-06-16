@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3126248070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d3f50794fb356a6fc4f6fb80f326b06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80729077cb39806c86b5c10073f074fb
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/share/shader/touming.shader
+Dependencies: []
